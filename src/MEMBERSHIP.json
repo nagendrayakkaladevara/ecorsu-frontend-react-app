@@ -1,0 +1,9882 @@
+[
+ {
+  "id": 1,
+  "SRNO": 1832,
+  "EMPNO": "53162110583",
+  "EMPNAME": "\tNARAYANAMURTY KAMARSI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 2,
+  "SRNO": 1838,
+  "EMPNO": "53164110378",
+  "EMPNAME": "\tTARAKESWARA RAO VARANASI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 3,
+  "SRNO": 1869,
+  "EMPNO": "53164110280",
+  "EMPNAME": "\tDAMODARA RAO NAKKA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 4,
+  "SRNO": 2034,
+  "EMPNO": "53163090132",
+  "EMPNAME": "\tJETHENDRA BABU NAMANA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 5,
+  "SRNO": 2036,
+  "EMPNO": "53164090279",
+  "EMPNAME": "\tKARRI SRINU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 6,
+  "SRNO": 2066,
+  "EMPNO": "53163090217",
+  "EMPNAME": "\tNOOKARAJU YELLAPU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 7,
+  "SRNO": 2073,
+  "EMPNO": "53110000542",
+  "EMPNAME": "\tKANAPARTI MAHESH",
+  "STATION": "VZM",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 8,
+  "SRNO": 2075,
+  "EMPNO": "53163090137",
+  "EMPNAME": "\tGANDI KISHORE KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 9,
+  "SRNO": 2767,
+  "EMPNO": "53164060068",
+  "EMPNAME": "\tCHIDUGULA PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 10,
+  "SRNO": 2769,
+  "EMPNO": "53164060074",
+  "EMPNAME": "\tG.VENKATA PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 11,
+  "SRNO": 2885,
+  "EMPNO": "00505987015",
+  "EMPNAME": "\tPAISAKA JAYA PRAKASH",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 12,
+  "SRNO": 2886,
+  "EMPNO": "53107962186",
+  "EMPNAME": "\tSESHA SUBRAHMANYA DAS K",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 13,
+  "SRNO": 2890,
+  "EMPNO": "53107308188",
+  "EMPNAME": "\tKASA VENKATA RAMANA MURTY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 14,
+  "SRNO": 2892,
+  "EMPNO": "53107990339",
+  "EMPNAME": "\tKORIVI SRIDHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 15,
+  "SRNO": 2893,
+  "EMPNO": "53107991885",
+  "EMPNAME": "\tCHALLA ESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 16,
+  "SRNO": 2898,
+  "EMPNO": "53101993288",
+  "EMPNAME": "\tSRINIVASA RAO SIMMA",
+  "STATION": "WAT",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 17,
+  "SRNO": 2899,
+  "EMPNO": "53107992476",
+  "EMPNAME": "\tMALLA JAGANNADHA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LPS",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 18,
+  "SRNO": 1625,
+  "EMPNO": "244IG132641",
+  "EMPNAME": "\tSREENU GANTAKORA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 19,
+  "SRNO": 1637,
+  "EMPNO": "30429800571",
+  "EMPNAME": "\tPALINDRA SINGH",
+  "STATION": "KRPU",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 20,
+  "SRNO": 1706,
+  "EMPNO": "53120132263",
+  "EMPNAME": "PURUSHOTTAM NAIDU VENNELA",
+  "STATION": "MIPM",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 21,
+  "SRNO": 1757,
+  "EMPNO": "53120134310",
+  "EMPNAME": "\tBALAKRISHNA NAMBARI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 22,
+  "SRNO": 1759,
+  "EMPNO": "53120134325",
+  "EMPNAME": "\tY.AKHILESH KUMAR DEO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 23,
+  "SRNO": 1845,
+  "EMPNO": "243IF130860",
+  "EMPNAME": "\tTHARA PRATAP REDDY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 24,
+  "SRNO": 1860,
+  "EMPNO": "53164110286",
+  "EMPNAME": "\tCHARANA DASU PAGOTI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 25,
+  "SRNO": 1953,
+  "EMPNO": "00505980070",
+  "EMPNAME": "\tG RAMA MOHANA MURTHY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 26,
+  "SRNO": 2027,
+  "EMPNO": "53120120738",
+  "EMPNAME": "\tSHANTANU KUMAR SWAIN",
+  "STATION": "RGDA",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 27,
+  "SRNO": 2032,
+  "EMPNO": "53162099901",
+  "EMPNAME": "\tCH. MALLIKHARJUNA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 28,
+  "SRNO": 2033,
+  "EMPNO": "53162120117",
+  "EMPNAME": "\tSURENDRA KUMAR ALLAMSETTI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 29,
+  "SRNO": 2055,
+  "EMPNO": "53106005500",
+  "EMPNAME": "\tKAPIL RAJESH KUMAR YEDURU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 30,
+  "SRNO": 2057,
+  "EMPNO": "53108006118",
+  "EMPNAME": "\tSANJAY KUMAR NAIK",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 31,
+  "SRNO": 2064,
+  "EMPNO": "53162120117",
+  "EMPNAME": "\tSURENDRA KUMAR ALLAMSETTI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 32,
+  "SRNO": 2072,
+  "EMPNO": "53163110093",
+  "EMPNAME": "\tAMRITA BEHERA",
+  "STATION": "WAT",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 33,
+  "SRNO": 2098,
+  "EMPNO": "53100090720",
+  "EMPNAME": "\tSRINIVASA RAO BONAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 34,
+  "SRNO": 2130,
+  "EMPNO": "53100090720",
+  "EMPNAME": "\tSRINIVASA RAO BONAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 35,
+  "SRNO": 2788,
+  "EMPNO": "53164060075",
+  "EMPNAME": "\tL.SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 36,
+  "SRNO": 2794,
+  "EMPNO": "245II060305",
+  "EMPNAME": "\tV PARAMESWARA RAO DORA",
+  "STATION": "VZM",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 37,
+  "SRNO": 2883,
+  "EMPNO": "00505980215",
+  "EMPNAME": "\tHOTHA RAMESH SANKAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 38,
+  "SRNO": 2887,
+  "EMPNO": "39209777090",
+  "EMPNAME": "\tRONGALI NAGESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 39,
+  "SRNO": 2894,
+  "EMPNO": "53109776620",
+  "EMPNAME": "\tGURANA SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 40,
+  "SRNO": 2895,
+  "EMPNO": "53155384900",
+  "EMPNAME": "\tM.PURUSHOTHAMA K.SWAMY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 41,
+  "SRNO": 2897,
+  "EMPNO": "53101975160",
+  "EMPNAME": "\tPUTSALA VIJAYA KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LPS I",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 42,
+  "SRNO": 1613,
+  "EMPNO": "24229802409",
+  "EMPNAME": "\tTHENDYALA THIRUPATHI RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 43,
+  "SRNO": 1615,
+  "EMPNO": "24229806056",
+  "EMPNAME": "\tCHINTHU RAMAKRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 44,
+  "SRNO": 1616,
+  "EMPNO": "24229806162",
+  "EMPNAME": "\tGONDU LAXMANA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 45,
+  "SRNO": 1618,
+  "EMPNO": "244IG132586",
+  "EMPNAME": "\tKODISA KRUSHNA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 46,
+  "SRNO": 1619,
+  "EMPNO": "24229806629",
+  "EMPNAME": "\tBORA DILIP",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 47,
+  "SRNO": 1620,
+  "EMPNO": "30229802647",
+  "EMPNAME": "\tANEM SIVA PRASAD",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 48,
+  "SRNO": 1621,
+  "EMPNO": "24429806135",
+  "EMPNAME": "\tKANCHARAPU RAVI KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 49,
+  "SRNO": 1622,
+  "EMPNO": "30229802660",
+  "EMPNAME": "\tNAKKINA MANOJ KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 50,
+  "SRNO": 1623,
+  "EMPNO": "24429806168",
+  "EMPNAME": "\tCHOPPA SRINU",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 51,
+  "SRNO": 1624,
+  "EMPNO": "30229803225",
+  "EMPNAME": "\tGANGIREDLA GANAPATHI",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 52,
+  "SRNO": 1631,
+  "EMPNO": "30429803592",
+  "EMPNAME": "\tJARBALA HARIBABU",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 53,
+  "SRNO": 1632,
+  "EMPNO": "30229802751",
+  "EMPNAME": "\tMARLA SRINU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 54,
+  "SRNO": 1633,
+  "EMPNO": "30429803601",
+  "EMPNAME": "\tBANTUPALLI ANILKUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 55,
+  "SRNO": 1636,
+  "EMPNO": "30429803724",
+  "EMPNAME": "\tKUMMARI NAGESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 56,
+  "SRNO": 1638,
+  "EMPNO": "30429803728",
+  "EMPNAME": "\tCHOKKAPU KARTHIK",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 57,
+  "SRNO": 1640,
+  "EMPNO": "30429803729",
+  "EMPNAME": "\tKUNDAN KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 58,
+  "SRNO": 1642,
+  "EMPNO": "30429803309",
+  "EMPNAME": "\tNAVURU MANEESHA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 59,
+  "SRNO": 1643,
+  "EMPNO": "30429803764",
+  "EMPNAME": "\tDEEPAK KUMAR JHA",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 60,
+  "SRNO": 1644,
+  "EMPNO": "30429803627",
+  "EMPNAME": "\tKOLLA BHARGAVA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 61,
+  "SRNO": 1645,
+  "EMPNO": "30429803722",
+  "EMPNAME": "\tGOLAGANI SAI GIRIDHAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 62,
+  "SRNO": 1646,
+  "EMPNO": "30429803772",
+  "EMPNAME": "\tARUN KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 63,
+  "SRNO": 1647,
+  "EMPNO": "30429803723",
+  "EMPNAME": "\tCHIPPADA APPALA SWAMI NAIDU",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 64,
+  "SRNO": 1648,
+  "EMPNO": "30429803776",
+  "EMPNAME": "\tSHUBHAM KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 65,
+  "SRNO": 1649,
+  "EMPNO": "30429803781",
+  "EMPNAME": "\tSAURAV KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 66,
+  "SRNO": 1650,
+  "EMPNO": "30429803727",
+  "EMPNAME": "\tSARFARAZ AHMAD QUADRI",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 67,
+  "SRNO": 1651,
+  "EMPNO": "30429803750",
+  "EMPNAME": "\tKANITHI PUSHPALATHA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 68,
+  "SRNO": 1652,
+  "EMPNO": "30429803754",
+  "EMPNAME": "\tMASARAPALLI SHIVA SAI PRASAD",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 69,
+  "SRNO": 1656,
+  "EMPNO": "30429803606",
+  "EMPNAME": "\tKILLI NAGA RAJU",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 70,
+  "SRNO": 1657,
+  "EMPNO": "30429803762",
+  "EMPNAME": "\tNARENDRA KUMAR",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 71,
+  "SRNO": 1658,
+  "EMPNO": "30429803770",
+  "EMPNAME": "\tT SANTOSH KUMAR",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 72,
+  "SRNO": 1659,
+  "EMPNO": "24229806025",
+  "EMPNAME": "\tBALI ESWARARAO",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 73,
+  "SRNO": 1660,
+  "EMPNO": "30429803748",
+  "EMPNAME": "\tSARAGADAM SANTOSH KUMAR",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 74,
+  "SRNO": 1661,
+  "EMPNO": "30429803783",
+  "EMPNAME": "\tPOGIRI RAMAKRISHNARAO",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 75,
+  "SRNO": 1662,
+  "EMPNO": "30429803614",
+  "EMPNAME": "\tCHALAMPALYAM VIJAYAKUMAR",
+  "STATION": "RU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 76,
+  "SRNO": 1663,
+  "EMPNO": "24229806178",
+  "EMPNAME": "\tSARISA YASWANTH KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 77,
+  "SRNO": 1664,
+  "EMPNO": "30429803726",
+  "EMPNAME": "\tMANOJIT SIKDER",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 78,
+  "SRNO": 1695,
+  "EMPNO": "30429802813",
+  "EMPNAME": "\tRAJEEV RANJAN RAY",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 79,
+  "SRNO": 1704,
+  "EMPNO": "30429803350",
+  "EMPNAME": "\tDEEPAK PASWAN",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 80,
+  "SRNO": 1741,
+  "EMPNO": "00429806868",
+  "EMPNAME": "\tTHANAKALA RAJA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 81,
+  "SRNO": 1743,
+  "EMPNO": "12329803178",
+  "EMPNAME": "\tMUNAKALA KIRAN KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 82,
+  "SRNO": 1747,
+  "EMPNO": "24229806026",
+  "EMPNAME": "\tNELLI TRIVIKRAMARAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 83,
+  "SRNO": 1748,
+  "EMPNO": "24429803278",
+  "EMPNAME": "\tB V V MADHU",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 84,
+  "SRNO": 1750,
+  "EMPNO": "24429803280",
+  "EMPNAME": "\tM V V SATYANARAYANA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 85,
+  "SRNO": 1753,
+  "EMPNO": "53120124025",
+  "EMPNAME": "\tGAUTAM P.",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 86,
+  "SRNO": 1758,
+  "EMPNO": "24729801324",
+  "EMPNAME": "\tD SRIMANTH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 87,
+  "SRNO": 1760,
+  "EMPNO": "24729801593",
+  "EMPNAME": "\tKUNAL SINGH",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 88,
+  "SRNO": 1761,
+  "EMPNO": "53120164278",
+  "EMPNAME": "\tKONNA LINGARAJU",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 89,
+  "SRNO": 1765,
+  "EMPNO": "30329801597",
+  "EMPNAME": "\tDABBEERU SANTHOSHKUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 90,
+  "SRNO": 1766,
+  "EMPNO": "30429803391",
+  "EMPNAME": "\tTANDARA JAYA SANKAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 91,
+  "SRNO": 1779,
+  "EMPNO": "30229802901",
+  "EMPNAME": "\tVANKARA PRAVEEN",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 92,
+  "SRNO": 1782,
+  "EMPNO": "12929800924",
+  "EMPNAME": "\tREDDI SUDHEER",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 93,
+  "SRNO": 1784,
+  "EMPNO": "18429809081",
+  "EMPNAME": "\tRATNALA HAREESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 94,
+  "SRNO": 1785,
+  "EMPNO": "30429803909",
+  "EMPNAME": "\tNAYANIPATRUNI MANOHAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 95,
+  "SRNO": 1786,
+  "EMPNO": "18429809084",
+  "EMPNAME": "\tTANKALA SURESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 96,
+  "SRNO": 1787,
+  "EMPNO": "30429803910",
+  "EMPNAME": "\tKOTANA PRAKASH",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 97,
+  "SRNO": 1788,
+  "EMPNO": "24429805290",
+  "EMPNAME": "\tVISWANADHAM POORNACHANDRA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 98,
+  "SRNO": 1789,
+  "EMPNO": "30429803922",
+  "EMPNAME": "\tJULI KUMARI",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 99,
+  "SRNO": 1790,
+  "EMPNO": "27329807547",
+  "EMPNAME": "\tRAJANA HARIKRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 100,
+  "SRNO": 1791,
+  "EMPNO": "30329801161",
+  "EMPNAME": "\tBUDDEPU POORNA CHANDRA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 101,
+  "SRNO": 1793,
+  "EMPNO": "30429803348",
+  "EMPNAME": "\tBEHARA VAMSI PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 102,
+  "SRNO": 1794,
+  "EMPNO": "12329803187",
+  "EMPNAME": "\tARASADA MAHESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 103,
+  "SRNO": 1795,
+  "EMPNO": "30429803365",
+  "EMPNAME": "\tVARA VIDYA SREE",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 104,
+  "SRNO": 1796,
+  "EMPNO": "18429809033",
+  "EMPNAME": "\tSUDHIR KUMAR BHUKTA",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 105,
+  "SRNO": 1797,
+  "EMPNO": "30429803366",
+  "EMPNAME": "\tGUDAPATI VENKATA MAHESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 106,
+  "SRNO": 1799,
+  "EMPNO": "30429803377",
+  "EMPNAME": "\tSALIVENDRA SRAVANTHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 107,
+  "SRNO": 1801,
+  "EMPNO": "30429803378",
+  "EMPNAME": "\tTADIMALLA RAJESWARI",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 108,
+  "SRNO": 1803,
+  "EMPNO": "30429803380",
+  "EMPNAME": "\tMUDDAS LOKESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 109,
+  "SRNO": 1807,
+  "EMPNO": "06329802870",
+  "EMPNAME": "\tTALAVALASA PADMAKARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 110,
+  "SRNO": 1811,
+  "EMPNO": "24229806419",
+  "EMPNAME": "\tKOTTURU SURESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 111,
+  "SRNO": 1813,
+  "EMPNO": "30229802956",
+  "EMPNAME": "\tTALAPADRA GNANASUNDARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 112,
+  "SRNO": 1816,
+  "EMPNO": "39529803497",
+  "EMPNAME": "\tNELIVADA SESHU",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 113,
+  "SRNO": 1818,
+  "EMPNO": "30229801892",
+  "EMPNAME": "\tPATHALAM KASIRAO",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 114,
+  "SRNO": 1820,
+  "EMPNO": "39529803497",
+  "EMPNAME": "\tNELIVADA SESHU",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 115,
+  "SRNO": 1848,
+  "EMPNO": "24429801556",
+  "EMPNAME": "\tLANDA RAVI KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 116,
+  "SRNO": 1849,
+  "EMPNO": "30229802943",
+  "EMPNAME": "\tYELLAPU KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 117,
+  "SRNO": 1850,
+  "EMPNO": "30229802686",
+  "EMPNAME": "\tGOLLAVILLI JAGADEESH CHANDRA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 118,
+  "SRNO": 1851,
+  "EMPNO": "30229802954",
+  "EMPNAME": "\tKANDENA DURGAPRASADA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 119,
+  "SRNO": 1854,
+  "EMPNO": "30429804042",
+  "EMPNAME": "\tBENDI RAVI TEJA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 120,
+  "SRNO": 1863,
+  "EMPNO": "33229816915",
+  "EMPNAME": "\tP PRITHVI RAJ",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 121,
+  "SRNO": 1876,
+  "EMPNO": "30429803263",
+  "EMPNAME": "\tIPPILI DILEEP",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 122,
+  "SRNO": 1884,
+  "EMPNO": "18229806904",
+  "EMPNAME": "\tDAKAMARRI SIVA KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 123,
+  "SRNO": 1910,
+  "EMPNO": "30429803461",
+  "EMPNAME": "\tTHOKALA RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 124,
+  "SRNO": 1911,
+  "EMPNO": "53120144254",
+  "EMPNAME": "\tCHANDAN KUMAR SINGH",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 125,
+  "SRNO": 1912,
+  "EMPNO": "53120144344",
+  "EMPNAME": "\tMUKHRAJ MEENA",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 126,
+  "SRNO": 1913,
+  "EMPNO": "53120144367",
+  "EMPNAME": "\tKAMLESH KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 127,
+  "SRNO": 1914,
+  "EMPNO": "53120144388",
+  "EMPNAME": "\tBAHADUR SINGH JATAV",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 128,
+  "SRNO": 1915,
+  "EMPNO": "53120144413",
+  "EMPNAME": "\tMD IRFAN ALAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 129,
+  "SRNO": 1916,
+  "EMPNO": "53120144483",
+  "EMPNAME": "\tVINOD KUMAR RANIWAL",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 130,
+  "SRNO": 1917,
+  "EMPNO": "53120144620",
+  "EMPNAME": "\tLALU PRASAD RAJHANS",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 131,
+  "SRNO": 1918,
+  "EMPNO": "53120144621",
+  "EMPNAME": "\tBALBEER BAIRWA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 132,
+  "SRNO": 1919,
+  "EMPNO": "53120144657",
+  "EMPNAME": "\tRAJ KUMAR PRASAD",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 133,
+  "SRNO": 1920,
+  "EMPNO": "53120154001",
+  "EMPNAME": "\tAMITANAND",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 134,
+  "SRNO": 1921,
+  "EMPNO": "53120154181",
+  "EMPNAME": "\tMUMMANA KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 135,
+  "SRNO": 1927,
+  "EMPNO": "24229802384",
+  "EMPNAME": "\tBISAI PRASAD",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 136,
+  "SRNO": 1928,
+  "EMPNO": "24229806384",
+  "EMPNAME": "\tCHINTHANIPPULA RAJESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 137,
+  "SRNO": 1929,
+  "EMPNO": "24229806495",
+  "EMPNAME": "\tVIPPARTHI NARAYANA NOOKA RAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 138,
+  "SRNO": 1930,
+  "EMPNO": "24229806430",
+  "EMPNAME": "\tKANAKALA RAKESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 139,
+  "SRNO": 1931,
+  "EMPNO": "24429806138",
+  "EMPNAME": "\tGANDHAM SRAVANI",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 140,
+  "SRNO": 1932,
+  "EMPNO": "244IG132303",
+  "EMPNAME": "\tGANE MAHESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 141,
+  "SRNO": 1933,
+  "EMPNO": "24529803980",
+  "EMPNAME": "\tP VAMSI KRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 142,
+  "SRNO": 1934,
+  "EMPNO": "244IG160457",
+  "EMPNAME": "\tB.LAKSHMANA RAO",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 143,
+  "SRNO": 1935,
+  "EMPNO": "30429803461",
+  "EMPNAME": "\tTHOKALA RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 144,
+  "SRNO": 1936,
+  "EMPNO": "30229802895",
+  "EMPNAME": "\tNADIMINTI RAVINDRA",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 145,
+  "SRNO": 1937,
+  "EMPNO": "30429803469",
+  "EMPNAME": "\tRAJESH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 146,
+  "SRNO": 1938,
+  "EMPNO": "30229803236",
+  "EMPNAME": "\tBOTSA HARI KRISHNA",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 147,
+  "SRNO": 1939,
+  "EMPNO": "39229803925",
+  "EMPNAME": "\tCHINTADA VINOD KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 148,
+  "SRNO": 1940,
+  "EMPNO": "30329801813",
+  "EMPNAME": "\tGORLE HAREESH",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 149,
+  "SRNO": 1941,
+  "EMPNO": "53120154398",
+  "EMPNAME": "\tB. SOMINAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 150,
+  "SRNO": 1942,
+  "EMPNO": "30429803435",
+  "EMPNAME": "\tTHAMARAKHANDI SRINIVAS",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 151,
+  "SRNO": 1943,
+  "EMPNO": "53120154400",
+  "EMPNAME": "\tD. GOURI SANKARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 152,
+  "SRNO": 1944,
+  "EMPNO": "24429805280",
+  "EMPNAME": "\tKONCHADA ABHILASH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 153,
+  "SRNO": 1948,
+  "EMPNO": "24229806307",
+  "EMPNAME": "\tALLU SAI SANTOSH",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 154,
+  "SRNO": 1949,
+  "EMPNO": "24229806588",
+  "EMPNAME": "\tATTADA RAMA KRISHNA SAI SWAROOP",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 155,
+  "SRNO": 1950,
+  "EMPNO": "24229806592",
+  "EMPNAME": "\tBODDU VENUGOPAL RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 156,
+  "SRNO": 1951,
+  "EMPNO": "24229806496",
+  "EMPNAME": "\tCHANDAKA KRISHNAM NAIDU",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 157,
+  "SRNO": 1952,
+  "EMPNO": "39529803863",
+  "EMPNAME": "\tLENKA NAGARAJU",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104474"
+ },
+ {
+  "id": 158,
+  "SRNO": 2039,
+  "EMPNO": "18229806927",
+  "EMPNAME": "\tKOLLI NEELIMA",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 159,
+  "SRNO": 2040,
+  "EMPNO": "24229801940",
+  "EMPNAME": "\tPATTA APPALANAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 160,
+  "SRNO": 2041,
+  "EMPNO": "24229802390",
+  "EMPNAME": "\tLENKA RAMA KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 161,
+  "SRNO": 2044,
+  "EMPNO": "30429803893",
+  "EMPNAME": "\tBABULI BEHERA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 162,
+  "SRNO": 2046,
+  "EMPNO": "30429803898",
+  "EMPNAME": "\tRAMA CHANDRA SAHOO",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 163,
+  "SRNO": 2048,
+  "EMPNO": "30429803901",
+  "EMPNAME": "\tVIKESH KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 164,
+  "SRNO": 2051,
+  "EMPNO": "30429803904",
+  "EMPNAME": "\tSONU S BANSOD",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 165,
+  "SRNO": 2053,
+  "EMPNO": "30429803906",
+  "EMPNAME": "\tCHANDAN KUMAR SETHY",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 166,
+  "SRNO": 2054,
+  "EMPNO": "30429803502",
+  "EMPNAME": "\tLAKAMANA SURYA TEJA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 167,
+  "SRNO": 2056,
+  "EMPNO": "30429803510",
+  "EMPNAME": "\tJAMI PURUSHOTHAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 168,
+  "SRNO": 2058,
+  "EMPNO": "30429803895",
+  "EMPNAME": "\tSANTOSH KUMAR GUPTA",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 169,
+  "SRNO": 2070,
+  "EMPNO": "30429803903",
+  "EMPNAME": "\tDILLIP KUMAR BEHERA",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 170,
+  "SRNO": 2127,
+  "EMPNO": "24229805970",
+  "EMPNAME": "\tKONA JAYADHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 171,
+  "SRNO": 2128,
+  "EMPNO": "24229806425",
+  "EMPNAME": "\tRAYAPALLI SURENDRA",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 172,
+  "SRNO": 2361,
+  "EMPNO": "30429802488",
+  "EMPNAME": "\tJAGGINA BHARATH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 173,
+  "SRNO": 2403,
+  "EMPNO": "18429809106",
+  "EMPNAME": "\tDOKALA ADITYA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 174,
+  "SRNO": 2404,
+  "EMPNO": "24229801376",
+  "EMPNAME": "\tKONDE RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 175,
+  "SRNO": 2406,
+  "EMPNO": "24229801938",
+  "EMPNAME": "\tPALAVALASA RAMBABU",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 176,
+  "SRNO": 2407,
+  "EMPNO": "24429801191",
+  "EMPNAME": "\tL.V.N.CHANDRAMOHAN",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 177,
+  "SRNO": 2411,
+  "EMPNO": "244IG170121",
+  "EMPNAME": "\tCHINNI SANTHOSH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 178,
+  "SRNO": 2412,
+  "EMPNO": "30329801146",
+  "EMPNAME": "\tM SATEESH KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 179,
+  "SRNO": 2414,
+  "EMPNO": "30329801197",
+  "EMPNAME": "\tPADMANABHAM ASHOK KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 180,
+  "SRNO": 2415,
+  "EMPNO": "24629800698",
+  "EMPNAME": "\tVANGALA SATISHKUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 181,
+  "SRNO": 2419,
+  "EMPNO": "30229802074",
+  "EMPNAME": "\tROUTHU SURI NAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 182,
+  "SRNO": 2421,
+  "EMPNO": "30229802289",
+  "EMPNAME": "\tSEELA KANTHA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 183,
+  "SRNO": 2423,
+  "EMPNO": "30229802772",
+  "EMPNAME": "\tNETTIMI YASHODA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 184,
+  "SRNO": 2449,
+  "EMPNO": "39229803935",
+  "EMPNAME": "\tBALIREDDY SHANMUKHA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 185,
+  "SRNO": 2454,
+  "EMPNO": "24429803254",
+  "EMPNAME": "\tPOTUPUREDDI SURESH",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 186,
+  "SRNO": 2456,
+  "EMPNO": "39329801448",
+  "EMPNAME": "\tINKULU JAGADEESH",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 187,
+  "SRNO": 2457,
+  "EMPNO": "15215MS2165",
+  "EMPNAME": "\tV.S.MAHESWARA RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 188,
+  "SRNO": 2803,
+  "EMPNO": "30229801918",
+  "EMPNAME": "\tKALLA DURGAPRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 189,
+  "SRNO": 2844,
+  "EMPNO": "30429803284",
+  "EMPNAME": "\tBAJRANGI KUMAR MODI",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 190,
+  "SRNO": 2845,
+  "EMPNO": "30429803290",
+  "EMPNAME": "\tJETTI KRUPAVARAM",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 191,
+  "SRNO": 2846,
+  "EMPNO": "30429803302",
+  "EMPNAME": "\tPRAMOD KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 192,
+  "SRNO": 2850,
+  "EMPNO": "24529803844",
+  "EMPNAME": "\tKALLA SURESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 193,
+  "SRNO": 2854,
+  "EMPNO": "39229803972",
+  "EMPNAME": "\tLOKESWARI DODDA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 194,
+  "SRNO": 2855,
+  "EMPNO": "30229802204",
+  "EMPNAME": "\tVIYYAPU VENKATA SIVA PRADEEP",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 195,
+  "SRNO": 2856,
+  "EMPNO": "30329801836",
+  "EMPNAME": "\tKANTIPAMU SATISH BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 196,
+  "SRNO": 2861,
+  "EMPNO": "18229806916",
+  "EMPNAME": "\tDORA VENKATESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 197,
+  "SRNO": 2862,
+  "EMPNO": "18429808571",
+  "EMPNAME": "\tPINAKANA YASWANTH",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 198,
+  "SRNO": 2863,
+  "EMPNO": "24229806044",
+  "EMPNAME": "\tGEDALA ASHOK KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 199,
+  "SRNO": 2864,
+  "EMPNO": "24229806167",
+  "EMPNAME": "\tPARLAPU TEJESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 200,
+  "SRNO": 2865,
+  "EMPNO": "24429804937",
+  "EMPNAME": "\tMATTA BALA KRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 201,
+  "SRNO": 2866,
+  "EMPNO": "24529803863",
+  "EMPNAME": "\tBYLAPUDI UDAY",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 202,
+  "SRNO": 2867,
+  "EMPNO": "24529803877",
+  "EMPNAME": "\tBODDU SHIVA",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 203,
+  "SRNO": 2868,
+  "EMPNO": "39529803499",
+  "EMPNAME": "\tMAJJI SURESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 204,
+  "SRNO": 2870,
+  "EMPNO": "39329801463",
+  "EMPNAME": "\tDUPPALA ESWAR",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 205,
+  "SRNO": 2876,
+  "EMPNO": "24229806267",
+  "EMPNAME": "\tJYOTHI MODALIYAR",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 206,
+  "SRNO": 2877,
+  "EMPNO": "33429804670",
+  "EMPNAME": "\tSETTI RAVI KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 207,
+  "SRNO": 2879,
+  "EMPNO": "30229802163",
+  "EMPNAME": "\tJARAJAPUVAMSI SAI",
+  "STATION": "WAT",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 208,
+  "SRNO": 2908,
+  "EMPNO": "30229801820",
+  "EMPNAME": "\tMASADA RAJESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 209,
+  "SRNO": 2912,
+  "EMPNO": "30229801967",
+  "EMPNAME": "\tGEMBALI GOWTHAM GANESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 210,
+  "SRNO": 2913,
+  "EMPNO": "30229802060",
+  "EMPNAME": "\tKOMMANA CHAITANYA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 211,
+  "SRNO": 2914,
+  "EMPNO": "30229802113",
+  "EMPNAME": "\tREDDY VIJAY KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 212,
+  "SRNO": 2915,
+  "EMPNO": "30229802185",
+  "EMPNAME": "\tGUNTEPU RAJESWARARAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 213,
+  "SRNO": 2946,
+  "EMPNO": "30429803223",
+  "EMPNAME": "\tPITTA VINOD",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 214,
+  "SRNO": 2947,
+  "EMPNO": "30429803228",
+  "EMPNAME": "\tSUNDAR KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 215,
+  "SRNO": 2948,
+  "EMPNO": "30429803235",
+  "EMPNAME": "\tBALI VASU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 216,
+  "SRNO": 2949,
+  "EMPNO": "30429803236",
+  "EMPNAME": "\tKANNURU MAHESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 217,
+  "SRNO": 2950,
+  "EMPNO": "30429803239",
+  "EMPNAME": "\tAMPOLU JAGANNAIKULU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 218,
+  "SRNO": 2951,
+  "EMPNO": "30429803241",
+  "EMPNAME": "\tKADAGALA DHANUNJAYA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 219,
+  "SRNO": 2952,
+  "EMPNO": "30429803243",
+  "EMPNAME": "\tPONNADA YOGESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 220,
+  "SRNO": 2953,
+  "EMPNO": "30429803244",
+  "EMPNAME": "\tDODDI CHANDRABHANU",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 221,
+  "SRNO": 2954,
+  "EMPNO": "18229806903",
+  "EMPNAME": "\tKANITHI DHILLESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 222,
+  "SRNO": 2956,
+  "EMPNO": "18429808784",
+  "EMPNAME": "\tBODDA RAMA MANOHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 223,
+  "SRNO": 2960,
+  "EMPNO": "24529803849",
+  "EMPNAME": "\tKORADA SRINU",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 224,
+  "SRNO": 2961,
+  "EMPNO": "24529804090",
+  "EMPNAME": "\tK RISHI KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 225,
+  "SRNO": 2962,
+  "EMPNO": "27629804490",
+  "EMPNAME": "\tMANIKANTA ALLAMSETTI",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 226,
+  "SRNO": 2970,
+  "EMPNO": "30429803237",
+  "EMPNAME": "\tPATIVADA VINAYAKANTH",
+  "STATION": "SCMN",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 227,
+  "SRNO": 2971,
+  "EMPNO": "39229803962",
+  "EMPNAME": "\tGARIKINA CHANDRA KALA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 228,
+  "SRNO": 2972,
+  "EMPNO": "39329801496",
+  "EMPNAME": "\tPALLA GANESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 229,
+  "SRNO": 2976,
+  "EMPNO": "30229802095",
+  "EMPNAME": "\tUKA KOTI",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 230,
+  "SRNO": 2978,
+  "EMPNO": "30429803225",
+  "EMPNAME": "\tMADABATHULA SRINIAVASA RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 231,
+  "SRNO": 4712,
+  "EMPNO": "30229802037",
+  "EMPNAME": "\tIMMANDI SRI HARSHA",
+  "STATION": "MIPM",
+  "DESIGNATION": "ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 232,
+  "SRNO": 1891,
+  "EMPNO": "53107306866",
+  "EMPNAME": "\tMAJJI PRATAPA REDDY",
+  "STATION": "VSKP",
+  "DESIGNATION": "Ch.LOCO INSP.",
+  "AMT": 300,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 233,
+  "SRNO": 1899,
+  "EMPNO": "53109536668",
+  "EMPNAME": "\tT.RAGHU PRASAD VARMA",
+  "STATION": "WAT",
+  "DESIGNATION": "Ch.LOCO INSP.",
+  "AMT": 300,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 234,
+  "SRNO": 1604,
+  "EMPNO": "30429800561",
+  "EMPNAME": "\tRANDHIR KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 235,
+  "SRNO": 1617,
+  "EMPNO": "244IG132267",
+  "EMPNAME": "\tHARIBABU ATTADA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 236,
+  "SRNO": 1627,
+  "EMPNO": "30429800557",
+  "EMPNAME": "\tBATTINA ESWARA NAGENDRA BABU",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 237,
+  "SRNO": 1629,
+  "EMPNO": "30429800580",
+  "EMPNAME": "\tAMIT KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 238,
+  "SRNO": 1635,
+  "EMPNO": "30429800536",
+  "EMPNAME": "\tADELLI VENUGOPAL REDDY",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 239,
+  "SRNO": 1669,
+  "EMPNO": "30229800303",
+  "EMPNAME": "\tMOPADA RAJESH",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 240,
+  "SRNO": 1670,
+  "EMPNO": "30229800304",
+  "EMPNAME": "\tRAMU SUNKARI",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 241,
+  "SRNO": 1671,
+  "EMPNO": "30229800364",
+  "EMPNAME": "\tCHINTALA V S T AJAYKUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 242,
+  "SRNO": 1672,
+  "EMPNO": "30229800421",
+  "EMPNAME": "\tSANAPATHI VENKATESH",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 243,
+  "SRNO": 1707,
+  "EMPNO": "53120134224",
+  "EMPNAME": "\tRAJNISH KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 244,
+  "SRNO": 1708,
+  "EMPNO": "53120134232",
+  "EMPNAME": "\tSUMAN KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 245,
+  "SRNO": 1709,
+  "EMPNO": "53120134233",
+  "EMPNAME": "\tJITENDRA KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 246,
+  "SRNO": 1710,
+  "EMPNO": "53120134244",
+  "EMPNAME": "\tVIJAYA DURGA REDDY GOLUGURI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 247,
+  "SRNO": 1711,
+  "EMPNO": "53120134246",
+  "EMPNAME": "\tVINOD KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 248,
+  "SRNO": 1712,
+  "EMPNO": "53120134260",
+  "EMPNAME": "\tBIPIN KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 249,
+  "SRNO": 1713,
+  "EMPNO": "53120134263",
+  "EMPNAME": "\tMANISH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 250,
+  "SRNO": 1714,
+  "EMPNO": "53120134269",
+  "EMPNAME": "\tPRAVIN KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 251,
+  "SRNO": 1715,
+  "EMPNO": "53120134272",
+  "EMPNAME": "\tPRAMOD KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 252,
+  "SRNO": 1716,
+  "EMPNO": "53120134273",
+  "EMPNAME": "\tRAJEEV KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 253,
+  "SRNO": 1717,
+  "EMPNO": "53120134275",
+  "EMPNAME": "\tDEVKI YADAV",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 254,
+  "SRNO": 1718,
+  "EMPNO": "53120134279",
+  "EMPNAME": "\tVIVEK KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 255,
+  "SRNO": 1719,
+  "EMPNO": "53120134281",
+  "EMPNAME": "\tYOGESH KUMAR SINGH",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 256,
+  "SRNO": 1720,
+  "EMPNO": "53120134282",
+  "EMPNAME": "\tRAMANAND KISHORE",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 257,
+  "SRNO": 1721,
+  "EMPNO": "53120134285",
+  "EMPNAME": "\tVIKASH KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 258,
+  "SRNO": 1722,
+  "EMPNO": "53120134291",
+  "EMPNAME": "\tRAVI KANT VERMA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 259,
+  "SRNO": 1723,
+  "EMPNO": "53120134292",
+  "EMPNAME": "\tSHASHI BHUSHAN KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 260,
+  "SRNO": 1724,
+  "EMPNO": "53120134293",
+  "EMPNAME": "\tSANDEEP KUMAR CHAKR VERTY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 261,
+  "SRNO": 1725,
+  "EMPNO": "53120134320",
+  "EMPNAME": "\tATUL KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 262,
+  "SRNO": 1726,
+  "EMPNO": "53120134365",
+  "EMPNAME": "\tKAPISH RANJAN",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 263,
+  "SRNO": 1727,
+  "EMPNO": "53120134367",
+  "EMPNAME": "\tVIVEK RANJAN BHARTI",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 264,
+  "SRNO": 1728,
+  "EMPNO": "53120134368",
+  "EMPNAME": "\tSUVASH SUMAN",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 265,
+  "SRNO": 1729,
+  "EMPNO": "53120134380",
+  "EMPNAME": "\tAMARJEET KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 266,
+  "SRNO": 1730,
+  "EMPNO": "53120134404",
+  "EMPNAME": "\tRAMPAD TUDU",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 267,
+  "SRNO": 1731,
+  "EMPNO": "53120134409",
+  "EMPNAME": "\tDUSHYANT KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 268,
+  "SRNO": 1732,
+  "EMPNO": "53120134410",
+  "EMPNAME": "\tSURJEET KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 269,
+  "SRNO": 1733,
+  "EMPNO": "53120134422",
+  "EMPNAME": "\tCHOTU MUNDA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 270,
+  "SRNO": 1734,
+  "EMPNO": "53120134476",
+  "EMPNAME": "\tT.BHANU PRAKASH RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 271,
+  "SRNO": 1735,
+  "EMPNO": "53120140670",
+  "EMPNAME": "\tK.VENUGOPAL RAO",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 272,
+  "SRNO": 1736,
+  "EMPNO": "53120162076",
+  "EMPNAME": "\tJAGGUROTHU TEJESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 273,
+  "SRNO": 1737,
+  "EMPNO": "53120162167",
+  "EMPNAME": "\tSINGURU TEJESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 274,
+  "SRNO": 1738,
+  "EMPNO": "53120164089",
+  "EMPNAME": "\tSURYA SAGAR REDDY",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 275,
+  "SRNO": 1739,
+  "EMPNO": "53162131159",
+  "EMPNAME": "\tRAMANA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 276,
+  "SRNO": 1740,
+  "EMPNO": "53162131241",
+  "EMPNAME": "\tBALLA MENAKESH",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 277,
+  "SRNO": 1742,
+  "EMPNO": "12929800105",
+  "EMPNAME": "\tNIKHIL CHANDRA DAS",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 278,
+  "SRNO": 1746,
+  "EMPNO": "30229800275",
+  "EMPNAME": "\tGANE NARENDRA VARMA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 279,
+  "SRNO": 1769,
+  "EMPNO": "53120132163",
+  "EMPNAME": "\tKOSURI MOHAN",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 280,
+  "SRNO": 1770,
+  "EMPNO": "53120134185",
+  "EMPNAME": "\tLADI RAMU",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 281,
+  "SRNO": 1771,
+  "EMPNO": "53120134187",
+  "EMPNAME": "\tURJANA GOVINDA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 282,
+  "SRNO": 1772,
+  "EMPNO": "53120134332",
+  "EMPNAME": "\tGOPI MUNJI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 283,
+  "SRNO": 1777,
+  "EMPNO": "53120132027",
+  "EMPNAME": "\tBALAMURALI KRISHNA LOSU",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 284,
+  "SRNO": 1778,
+  "EMPNO": "53120134270",
+  "EMPNAME": "\tSIMHACHALAM KANCHU",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 285,
+  "SRNO": 1780,
+  "EMPNO": "53120132027",
+  "EMPNAME": "\tBALAMURALI KRISHNA LOSU",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 286,
+  "SRNO": 1781,
+  "EMPNO": "53120134154",
+  "EMPNAME": "\tPRADEEP KUMAR KARANAM",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 287,
+  "SRNO": 1783,
+  "EMPNO": "30429800082",
+  "EMPNAME": "\tPAWAN KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 288,
+  "SRNO": 1792,
+  "EMPNO": "53120134528",
+  "EMPNAME": "\tSADHNA KUMARI",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 289,
+  "SRNO": 1798,
+  "EMPNO": "21229805800",
+  "EMPNAME": "\tSANDEEP KUMAR SARTHI",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 290,
+  "SRNO": 1804,
+  "EMPNO": "30429800045",
+  "EMPNAME": "\tYENDA RAJASEKHAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 291,
+  "SRNO": 1805,
+  "EMPNO": "53120144126",
+  "EMPNAME": "\tASHISH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 292,
+  "SRNO": 1806,
+  "EMPNO": "53120134483",
+  "EMPNAME": "\tSUJOY NEOGI",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 293,
+  "SRNO": 1808,
+  "EMPNO": "53120144064",
+  "EMPNAME": "\tPRAMOD PASWAN",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 294,
+  "SRNO": 1810,
+  "EMPNO": "53120163225",
+  "EMPNAME": "\tMETTA LAKSHMANA RAO",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 295,
+  "SRNO": 1821,
+  "EMPNO": "30229800478",
+  "EMPNAME": "\tRUPITI NAGARAJU",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 296,
+  "SRNO": 1825,
+  "EMPNO": "50200182588",
+  "EMPNAME": "\tU S GANESH KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 297,
+  "SRNO": 1826,
+  "EMPNO": "53100120070",
+  "EMPNAME": "\tSAIRAM DANDASI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 298,
+  "SRNO": 1827,
+  "EMPNO": "53114104458",
+  "EMPNAME": "\tKURMA RAO MADABATTULA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 299,
+  "SRNO": 1828,
+  "EMPNO": "53120134190",
+  "EMPNAME": "\tBAHADUR KUMAR SINGH",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 300,
+  "SRNO": 1829,
+  "EMPNO": "53120134517",
+  "EMPNAME": "\tBABLU KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 301,
+  "SRNO": 1830,
+  "EMPNO": "53120162072",
+  "EMPNAME": "\tBALIVADA HEMASUNDAR KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 302,
+  "SRNO": 1831,
+  "EMPNO": "53162089468",
+  "EMPNAME": "\tALTI RAMA JOGESWAR RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 303,
+  "SRNO": 1833,
+  "EMPNO": "53164110145",
+  "EMPNAME": "\tPRASHANT KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 304,
+  "SRNO": 1834,
+  "EMPNO": "53164110158",
+  "EMPNAME": "\tT.C.SEKHARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 305,
+  "SRNO": 1835,
+  "EMPNO": "53164110168",
+  "EMPNAME": "\tSINGAMPALLI   SUNDRARAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 306,
+  "SRNO": 1836,
+  "EMPNO": "53164110250",
+  "EMPNAME": "\tAMIT KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 307,
+  "SRNO": 1837,
+  "EMPNO": "53164110342",
+  "EMPNAME": "\tSHANKAR KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 308,
+  "SRNO": 1839,
+  "EMPNO": "53164110386",
+  "EMPNAME": "\tAJEET KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 309,
+  "SRNO": 1840,
+  "EMPNO": "53164110452",
+  "EMPNAME": "\tMUKESH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 310,
+  "SRNO": 1841,
+  "EMPNO": "53164110461",
+  "EMPNAME": "\tSONU LAL MAHTO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 311,
+  "SRNO": 1842,
+  "EMPNO": "53164110474",
+  "EMPNAME": "\tSURYAKANT CHOUDHARY",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 312,
+  "SRNO": 1843,
+  "EMPNO": "53164120029",
+  "EMPNAME": "\tRAJU KUMAR PRAJAPATI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 313,
+  "SRNO": 1844,
+  "EMPNO": "53164120082",
+  "EMPNAME": "\tDONTALA RAMESHU",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 314,
+  "SRNO": 1847,
+  "EMPNO": "30229800478",
+  "EMPNAME": "\tRUPITI NAGARAJU",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 315,
+  "SRNO": 1856,
+  "EMPNO": "53114104458",
+  "EMPNAME": "\tKURMA RAO MADABATTULA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 316,
+  "SRNO": 1857,
+  "EMPNO": "53120134516",
+  "EMPNAME": "\tANIRUDH KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 317,
+  "SRNO": 1858,
+  "EMPNO": "53164110168",
+  "EMPNAME": "\tSINGAMPALLI   SUNDRARAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 318,
+  "SRNO": 1859,
+  "EMPNO": "53164110176",
+  "EMPNAME": "\tA. PRASAD",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 319,
+  "SRNO": 1862,
+  "EMPNO": "53164110441",
+  "EMPNAME": "\tABHISHEK KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 320,
+  "SRNO": 1867,
+  "EMPNO": "53164110126",
+  "EMPNAME": "\tB.RAMARAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 321,
+  "SRNO": 1868,
+  "EMPNO": "53164110174",
+  "EMPNAME": "\tALLU ESWARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 322,
+  "SRNO": 1870,
+  "EMPNO": "53164110463",
+  "EMPNAME": "\tSANJAY KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 323,
+  "SRNO": 1871,
+  "EMPNO": "53164110515",
+  "EMPNAME": "\tRAJESH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 324,
+  "SRNO": 1872,
+  "EMPNO": "53164120028",
+  "EMPNAME": "\tGANESH SANPATHI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 325,
+  "SRNO": 1873,
+  "EMPNO": "53164110506",
+  "EMPNAME": "\tDIVAKAR KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 326,
+  "SRNO": 1874,
+  "EMPNO": "53164110119",
+  "EMPNAME": "\tSUBRAHMANYAM TOGARU",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 327,
+  "SRNO": 1875,
+  "EMPNO": "53164120023",
+  "EMPNAME": "\tVINAY KUMAR",
+  "STATION": "ROU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 328,
+  "SRNO": 1882,
+  "EMPNO": "53164110178",
+  "EMPNAME": "\tPRASAD KUMAR SESETTI",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 329,
+  "SRNO": 1889,
+  "EMPNO": "53100020024",
+  "EMPNAME": "\tSRINIVASA RAO GORLE",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 330,
+  "SRNO": 1890,
+  "EMPNO": "53104661760",
+  "EMPNAME": "\tPANDILLAPALLI RAMESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 331,
+  "SRNO": 1896,
+  "EMPNO": "53109263317",
+  "EMPNAME": "\tVURAKARANAM SRI KUMARA SARMA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 332,
+  "SRNO": 1897,
+  "EMPNO": "53107991915",
+  "EMPNAME": "\tKOTINADHAM VEERA VENKATA YUGAN",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 333,
+  "SRNO": 1898,
+  "EMPNO": "53107994783",
+  "EMPNAME": "\tYAKKALADEVARA SRINIVASA PRABHU",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 334,
+  "SRNO": 1905,
+  "EMPNO": "53105888281",
+  "EMPNAME": "\tSAYYAD AKRAM PASHA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 335,
+  "SRNO": 1906,
+  "EMPNO": "53105898420",
+  "EMPNAME": "\tCHINTALAPATI SRINU VENKATA BHA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 336,
+  "SRNO": 1907,
+  "EMPNO": "53107159900",
+  "EMPNAME": "\tDUSI GOPALA KRISHNA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 337,
+  "SRNO": 1908,
+  "EMPNO": "53107991873",
+  "EMPNAME": "\tBODDU TRINADHA VENKATA SATYANARAYANA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 338,
+  "SRNO": 1909,
+  "EMPNO": "53150703521",
+  "EMPNAME": "\tKUNDETI ASHOK KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104473"
+ },
+ {
+  "id": 339,
+  "SRNO": 1954,
+  "EMPNO": "39209772157",
+  "EMPNAME": "\tK.V.SUBRAHMANYAM GUPTA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 340,
+  "SRNO": 1955,
+  "EMPNO": "53101975109",
+  "EMPNAME": "\tMOLLETI RAMESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 341,
+  "SRNO": 1956,
+  "EMPNO": "53101993082",
+  "EMPNAME": "\tKOLLA MAHESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 342,
+  "SRNO": 1957,
+  "EMPNO": "53104040063",
+  "EMPNAME": "\tBOTCHA VELANGINI VARA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 343,
+  "SRNO": 1958,
+  "EMPNO": "53105040270",
+  "EMPNAME": "\tRAMACHANDRAN VENUGOPAL",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 344,
+  "SRNO": 1959,
+  "EMPNO": "53105610813",
+  "EMPNAME": "\tKUPPILI SRINIVAS",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 345,
+  "SRNO": 1960,
+  "EMPNO": "53106090252",
+  "EMPNAME": "\tNAKKELLA APPA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 346,
+  "SRNO": 1961,
+  "EMPNO": "53106100079",
+  "EMPNAME": "\tRAMBHA SIMHACHALAM NAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 347,
+  "SRNO": 1962,
+  "EMPNO": "53106163646",
+  "EMPNAME": "\tKOIDALA RAMA KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 348,
+  "SRNO": 1963,
+  "EMPNO": "53107159870",
+  "EMPNAME": "\tGADHELA NARENDRA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 349,
+  "SRNO": 1964,
+  "EMPNO": "53107316732",
+  "EMPNAME": "\tARIGELLA RAJANI KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 350,
+  "SRNO": 1965,
+  "EMPNO": "53107317025",
+  "EMPNAME": "\tDWARAM MOHANA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 351,
+  "SRNO": 1966,
+  "EMPNO": "53107317220",
+  "EMPNAME": "\tMOHAMMED ABDUL MOULANA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 352,
+  "SRNO": 1968,
+  "EMPNO": "53107343565",
+  "EMPNAME": "\tPANDURI KOTESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 353,
+  "SRNO": 1969,
+  "EMPNO": "53107993845",
+  "EMPNAME": "\tYENNI VENKATA RAMANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 354,
+  "SRNO": 1970,
+  "EMPNO": "53107993869",
+  "EMPNAME": "\tHANUMANTHU BABU RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 355,
+  "SRNO": 1971,
+  "EMPNO": "53107993870",
+  "EMPNAME": "\tTEPPALA VENU GOPAL",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 356,
+  "SRNO": 1972,
+  "EMPNO": "53107993882",
+  "EMPNAME": "\tKAMMINANA SANKARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 357,
+  "SRNO": 1973,
+  "EMPNO": "53107993894",
+  "EMPNAME": "\tCHITRADA KUMARASWAMY",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 358,
+  "SRNO": 1974,
+  "EMPNO": "53107993973",
+  "EMPNAME": "\tNEMALIPURI VISWESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 359,
+  "SRNO": 1975,
+  "EMPNO": "53107994552",
+  "EMPNAME": "\tMADAGALA SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 360,
+  "SRNO": 1976,
+  "EMPNO": "53107994722",
+  "EMPNAME": "\tKANAKAM MANI SEKHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 361,
+  "SRNO": 1977,
+  "EMPNO": "53108023803",
+  "EMPNAME": "\tBHIRI BHASKARA RAMA MURTHY",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 362,
+  "SRNO": 1978,
+  "EMPNO": "53108024273",
+  "EMPNAME": "\tPULLETIKURTI MOHAN SANKAR RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 363,
+  "SRNO": 1979,
+  "EMPNO": "53108059147",
+  "EMPNAME": "\tMADIREDDY RAVINDRA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 364,
+  "SRNO": 1980,
+  "EMPNO": "53108059287",
+  "EMPNAME": "\tGEDELA RAMA KRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 365,
+  "SRNO": 1981,
+  "EMPNO": "53108061518",
+  "EMPNAME": "\tPAIDI NARASINGA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 366,
+  "SRNO": 1982,
+  "EMPNO": "53108061543",
+  "EMPNAME": "\tMURALA SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 367,
+  "SRNO": 1983,
+  "EMPNO": "53108061555",
+  "EMPNAME": "\tAMPOLU PRASADA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 368,
+  "SRNO": 1984,
+  "EMPNO": "53108062729",
+  "EMPNAME": "\tSARASA APPARAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 369,
+  "SRNO": 1985,
+  "EMPNO": "53108063746",
+  "EMPNAME": "\tKOLA SATYANARAYANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 370,
+  "SRNO": 1986,
+  "EMPNO": "53108064374",
+  "EMPNAME": "\tKUTTUM SREENU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 371,
+  "SRNO": 1987,
+  "EMPNO": "53108069578",
+  "EMPNAME": "\tKONA KAMESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 372,
+  "SRNO": 1988,
+  "EMPNO": "53108087532",
+  "EMPNAME": "\tNAMBARU SANTHOSH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 373,
+  "SRNO": 1989,
+  "EMPNO": "53108089061",
+  "EMPNAME": "\tMUTHU VENKATA GIRI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 374,
+  "SRNO": 1990,
+  "EMPNO": "53109406463",
+  "EMPNAME": "\tDHANESH KUMAR RAJAMAHANTI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 375,
+  "SRNO": 1991,
+  "EMPNO": "53109576680",
+  "EMPNAME": "\tPADALA BHASKARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 376,
+  "SRNO": 1992,
+  "EMPNO": "53109603190",
+  "EMPNAME": "\tA.NEELADRI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 377,
+  "SRNO": 1993,
+  "EMPNO": "53109684657",
+  "EMPNAME": "\tSRINIVASA RAO KALAGARLA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 378,
+  "SRNO": 1994,
+  "EMPNO": "53109721836",
+  "EMPNAME": "\tLALAM RAMBABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 379,
+  "SRNO": 1995,
+  "EMPNO": "53150203090",
+  "EMPNAME": "\tKILLI RAJESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 380,
+  "SRNO": 1996,
+  "EMPNO": "53155382575",
+  "EMPNAME": "\tD.UMAMAHESWAR RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 381,
+  "SRNO": 1997,
+  "EMPNO": "53164050004",
+  "EMPNAME": "\tKOLLA GOPALA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 382,
+  "SRNO": 1998,
+  "EMPNO": "53164050005",
+  "EMPNAME": "\tBODDETI VENKATA RAMA LINGESWAR RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 383,
+  "SRNO": 1999,
+  "EMPNO": "53164060025",
+  "EMPNAME": "\tKANDIPILLI SIVA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 384,
+  "SRNO": 2000,
+  "EMPNO": "53164070037",
+  "EMPNAME": "\tMUMMANA KANAKARAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 385,
+  "SRNO": 2001,
+  "EMPNO": "53174865171",
+  "EMPNAME": "\tMUDULI NARAYANA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 386,
+  "SRNO": 2002,
+  "EMPNO": "53101796010",
+  "EMPNAME": "\tPENDA VARA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 387,
+  "SRNO": 2003,
+  "EMPNO": "50706166970",
+  "EMPNAME": "\tGUBBALA RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 388,
+  "SRNO": 2004,
+  "EMPNO": "53101796010",
+  "EMPNAME": "\tPENDA VARA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 389,
+  "SRNO": 2005,
+  "EMPNO": "53104040063",
+  "EMPNAME": "\tBOTCHA VELANGINI VARA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 390,
+  "SRNO": 2006,
+  "EMPNO": "53105020994",
+  "EMPNAME": "\tGEDDAM SIVA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 391,
+  "SRNO": 2007,
+  "EMPNO": "53106163646",
+  "EMPNAME": "\tKOIDALA RAMA KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 392,
+  "SRNO": 2008,
+  "EMPNO": "53107316549",
+  "EMPNAME": "\tIVATURI RAVI KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 393,
+  "SRNO": 2009,
+  "EMPNO": "53107334904",
+  "EMPNAME": "\tMD HUSSAIN SHARIFF",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 394,
+  "SRNO": 2010,
+  "EMPNO": "53107334928",
+  "EMPNAME": "\tUDATA CHANDRA SEKHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 395,
+  "SRNO": 2011,
+  "EMPNO": "53107426021",
+  "EMPNAME": "\tMADDALA NOOKA SRINIVAS",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 396,
+  "SRNO": 2012,
+  "EMPNO": "53107994011",
+  "EMPNAME": "\tPAPPALA MANIKYA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 397,
+  "SRNO": 2013,
+  "EMPNO": "53108020565",
+  "EMPNAME": "\tTIRAMAREDDY SURESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 398,
+  "SRNO": 2014,
+  "EMPNO": "53109542346",
+  "EMPNAME": "\tPRAGADA SRINIVASA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 399,
+  "SRNO": 2016,
+  "EMPNO": "243II080430",
+  "EMPNAME": "\tMADANA NAGESWAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 400,
+  "SRNO": 2017,
+  "EMPNO": "53105980094",
+  "EMPNAME": "\tBAGADI JOGAN NAIDU",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 401,
+  "SRNO": 2018,
+  "EMPNO": "53109542346",
+  "EMPNAME": "\tPRAGADA SRINIVASA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 402,
+  "SRNO": 2025,
+  "EMPNO": "39308AB0126",
+  "EMPNAME": "\tSANTOSH KUMAR BANDARU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 403,
+  "SRNO": 2026,
+  "EMPNO": "53119120740",
+  "EMPNAME": "\tPRADEEP KUMAR SINGH",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 404,
+  "SRNO": 2028,
+  "EMPNO": "53120134440",
+  "EMPNAME": "\tPRADEEP KUMAR GUPTA",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 405,
+  "SRNO": 2029,
+  "EMPNO": "53120134443",
+  "EMPNAME": "\tSANTOSH KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 406,
+  "SRNO": 2030,
+  "EMPNO": "53120134444",
+  "EMPNAME": "\tRAVIRANJAN SINGH",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 407,
+  "SRNO": 2031,
+  "EMPNO": "53120144125",
+  "EMPNAME": "\tKAMLESH KUMAR RAM",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 408,
+  "SRNO": 2035,
+  "EMPNO": "53163090220",
+  "EMPNAME": "\tHEMA VENKATA SIVA PRASAD GUDIP",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 409,
+  "SRNO": 2037,
+  "EMPNO": "53164110212",
+  "EMPNAME": "\tRAJU LAL MEENA",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 410,
+  "SRNO": 2038,
+  "EMPNO": "53199426523",
+  "EMPNAME": "\tVIKAS KUMAR MISHRA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 411,
+  "SRNO": 2059,
+  "EMPNO": "39306JE0758",
+  "EMPNAME": "\tSURADA KAMESWAR RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 412,
+  "SRNO": 2060,
+  "EMPNO": "53120162197",
+  "EMPNAME": "\tSINGAMPALLI RAJA",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 413,
+  "SRNO": 2061,
+  "EMPNO": "53107020343",
+  "EMPNAME": "\tKUMAR SARGADAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 414,
+  "SRNO": 2062,
+  "EMPNO": "53120163260",
+  "EMPNAME": "\tGORU ANIL",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 415,
+  "SRNO": 2063,
+  "EMPNO": "53163090220",
+  "EMPNAME": "\tHEMA VENKATA SIVA PRASAD GUDIP",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 416,
+  "SRNO": 2065,
+  "EMPNO": "53164120371",
+  "EMPNAME": "\tJAYARAM POLAKI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 417,
+  "SRNO": 2067,
+  "EMPNO": "53164050042",
+  "EMPNAME": "\tGORLE RAMANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 418,
+  "SRNO": 2068,
+  "EMPNO": "30229800234",
+  "EMPNAME": "\tGAMPA NAGENDRA KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 419,
+  "SRNO": 2074,
+  "EMPNO": "30229800254",
+  "EMPNAME": "\tPEDAGADA KARUNA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 420,
+  "SRNO": 2076,
+  "EMPNO": "39209771451",
+  "EMPNAME": "\tTHEEDA KRISHNA PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 421,
+  "SRNO": 2078,
+  "EMPNO": "53104020311",
+  "EMPNAME": "\tMANDA SUBRAHMANYAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 422,
+  "SRNO": 2079,
+  "EMPNO": "53104030529",
+  "EMPNAME": "\tPENTAKOTA SURI APPARAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 423,
+  "SRNO": 2080,
+  "EMPNO": "53104020345",
+  "EMPNAME": "\tLAXMU NAIDU P",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 424,
+  "SRNO": 2084,
+  "EMPNO": "53107997371",
+  "EMPNAME": "\tLALAM SURESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 425,
+  "SRNO": 2086,
+  "EMPNO": "53109688766",
+  "EMPNAME": "\tRAPETI UMAMAHESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 426,
+  "SRNO": 2087,
+  "EMPNO": "53109721915",
+  "EMPNAME": "\tJUNNURU SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 427,
+  "SRNO": 2088,
+  "EMPNO": "53111507615",
+  "EMPNAME": "\tBOLLA SURESH KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 428,
+  "SRNO": 2089,
+  "EMPNO": "53164040001",
+  "EMPNAME": "\tMEDIKONDA AJAY KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 429,
+  "SRNO": 2090,
+  "EMPNO": "39207989040",
+  "EMPNAME": "\tPULUGU ESWARA RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 430,
+  "SRNO": 2091,
+  "EMPNO": "53107310304",
+  "EMPNAME": "\tMULAGADA BHASKARA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 431,
+  "SRNO": 2092,
+  "EMPNO": "53107334631",
+  "EMPNAME": "\tKOLLURI GOVINDA RAJU SASTRY",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 432,
+  "SRNO": 2093,
+  "EMPNO": "53107858048",
+  "EMPNAME": "\tI.V.MALLIKARJUNA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 433,
+  "SRNO": 2094,
+  "EMPNO": "53109645020",
+  "EMPNAME": "\tMAVUDURI MOHAN RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 434,
+  "SRNO": 2095,
+  "EMPNO": "53107858048",
+  "EMPNAME": "\tI.V.MALLIKARJUNA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 435,
+  "SRNO": 2096,
+  "EMPNO": "53109688419",
+  "EMPNAME": "\tPENTAPALLI APPALA NARASINGA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 436,
+  "SRNO": 2097,
+  "EMPNO": "53111512600",
+  "EMPNAME": "\tD.KALYAN CHAKRAVARTHI",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 437,
+  "SRNO": 2099,
+  "EMPNO": "53106020264",
+  "EMPNAME": "\tDAMMA PRASADA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 438,
+  "SRNO": 2100,
+  "EMPNO": "53107020123",
+  "EMPNAME": "\tSRINIVASARAO NAGIREDDY",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 439,
+  "SRNO": 2101,
+  "EMPNO": "53107020128",
+  "EMPNAME": "\tKAKI SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 440,
+  "SRNO": 2102,
+  "EMPNO": "53109284886",
+  "EMPNAME": "\tGANESH MARPINA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 441,
+  "SRNO": 2103,
+  "EMPNO": "53113000693",
+  "EMPNAME": "\tMURARI MOHAN DEVNATH",
+  "STATION": "BCHL",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 442,
+  "SRNO": 2104,
+  "EMPNO": "53162090119",
+  "EMPNAME": "\tPHANEENDRANATH NARAVA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 443,
+  "SRNO": 2105,
+  "EMPNO": "53162090123",
+  "EMPNAME": "\tGOLLU NAGESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 444,
+  "SRNO": 2106,
+  "EMPNO": "53162099628",
+  "EMPNAME": "\tTADLAPU RAMA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 445,
+  "SRNO": 2107,
+  "EMPNO": "53162099656",
+  "EMPNAME": "\tTHAMMINAINA RAJA SEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 446,
+  "SRNO": 2108,
+  "EMPNO": "53162099658",
+  "EMPNAME": "\tGOWRI SANKARA RAO KOTANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 447,
+  "SRNO": 2109,
+  "EMPNO": "53162100192",
+  "EMPNAME": "\tBAILAPUDI SRINIVAS RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 448,
+  "SRNO": 2110,
+  "EMPNO": "53164060004",
+  "EMPNAME": "\tSUDHAKAR PANIGRAHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 449,
+  "SRNO": 2111,
+  "EMPNO": "53164060016",
+  "EMPNAME": "\tK. SRINIVAS RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 450,
+  "SRNO": 2112,
+  "EMPNO": "53164080106",
+  "EMPNAME": "\tKOLLA DHARMA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 451,
+  "SRNO": 2113,
+  "EMPNO": "53164080109",
+  "EMPNAME": "\tBODDU JAGADEESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 452,
+  "SRNO": 2114,
+  "EMPNO": "53164080113",
+  "EMPNAME": "\tLAKSHMANA RAO TAMMINENI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 453,
+  "SRNO": 2115,
+  "EMPNO": "53164080119",
+  "EMPNAME": "\tBHADRAGIRI VENKATA GOVINDA SRI",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 454,
+  "SRNO": 2116,
+  "EMPNO": "53164080125",
+  "EMPNAME": "\tJANA VENKATA SIVA TANOOJ KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 455,
+  "SRNO": 2117,
+  "EMPNO": "53164090265",
+  "EMPNAME": "\tKOTAM SETTY. RAMAKRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 456,
+  "SRNO": 2118,
+  "EMPNO": "53164090266",
+  "EMPNAME": "\tNAGESWARA RAO GEDELA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 457,
+  "SRNO": 2119,
+  "EMPNO": "53164090269",
+  "EMPNAME": "\tA.V.S.VARA PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 458,
+  "SRNO": 2120,
+  "EMPNO": "53164090275",
+  "EMPNAME": "\tSAHU NARAYANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 459,
+  "SRNO": 2121,
+  "EMPNO": "53164100237",
+  "EMPNAME": "\tKANDI VENKATA RAMANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 460,
+  "SRNO": 2122,
+  "EMPNO": "53164110362",
+  "EMPNAME": "\tKUNJI LAL MEENA",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 461,
+  "SRNO": 2123,
+  "EMPNO": "53199427333",
+  "EMPNAME": "\tLINGUBERI RAMARAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 462,
+  "SRNO": 2124,
+  "EMPNO": "53199429597",
+  "EMPNAME": "\tV.S.CH.SEKHAR CHEEKATI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 463,
+  "SRNO": 2125,
+  "EMPNO": "53199430599",
+  "EMPNAME": "\tYELLAPU S. NAGESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 464,
+  "SRNO": 2126,
+  "EMPNO": "53199512786",
+  "EMPNAME": "\tMOLLI ANANDA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 465,
+  "SRNO": 2129,
+  "EMPNO": "53162099601",
+  "EMPNAME": "\tKALLA GANESH BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 466,
+  "SRNO": 2131,
+  "EMPNO": "53164080102",
+  "EMPNAME": "\tRAJESH BADITYA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 467,
+  "SRNO": 2132,
+  "EMPNO": "53164090277",
+  "EMPNAME": "\tS.VENKATESWAR RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 468,
+  "SRNO": 2133,
+  "EMPNO": "53164080106",
+  "EMPNAME": "\tKOLLA DHARMA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 469,
+  "SRNO": 2134,
+  "EMPNO": "53164090263",
+  "EMPNAME": "\tJONNADA KUMARU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 470,
+  "SRNO": 2135,
+  "EMPNO": "53199429378",
+  "EMPNAME": "\tKARUMAJJI SRINUVASU",
+  "STATION": "KRPU",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 471,
+  "SRNO": 2136,
+  "EMPNO": "53199403511",
+  "EMPNAME": "\tV.SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 472,
+  "SRNO": 2137,
+  "EMPNO": "53199430551",
+  "EMPNAME": "\tSUDHIR KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 473,
+  "SRNO": 2138,
+  "EMPNO": "53199431970",
+  "EMPNAME": "\tSRINIVASA RAO MADDALA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 474,
+  "SRNO": 2139,
+  "EMPNO": "53199430794",
+  "EMPNAME": "\tDAYA RAM",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 475,
+  "SRNO": 2140,
+  "EMPNO": "53164100233",
+  "EMPNAME": "\tSURESH BABU PUJARI",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104478"
+ },
+ {
+  "id": 476,
+  "SRNO": 2143,
+  "EMPNO": "53102252454",
+  "EMPNAME": "\tKOTA APPALANAIDU",
+  "STATION": "WATCH",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 477,
+  "SRNO": 2144,
+  "EMPNO": "53105775802",
+  "EMPNAME": "\tNAGESWAR RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 478,
+  "SRNO": 2145,
+  "EMPNO": "53106147768",
+  "EMPNAME": "\tB.APPALA NAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 479,
+  "SRNO": 2147,
+  "EMPNO": "53107312301",
+  "EMPNAME": "\tGUNDU RAGHUNANDANA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 480,
+  "SRNO": 2148,
+  "EMPNO": "53107316999",
+  "EMPNAME": "\tSEKHARAMAHANTI HANUMANTHA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 481,
+  "SRNO": 2149,
+  "EMPNO": "53107771381",
+  "EMPNAME": "\tS. GOVIND RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 482,
+  "SRNO": 2150,
+  "EMPNO": "53107962794",
+  "EMPNAME": "\tGOTTIMUKKALA NAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 483,
+  "SRNO": 2151,
+  "EMPNO": "53107991964",
+  "EMPNAME": "\tNAMMI TRINADHA RAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 484,
+  "SRNO": 2152,
+  "EMPNO": "53107994667",
+  "EMPNAME": "\tVEMURI RAVI KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 485,
+  "SRNO": 2153,
+  "EMPNO": "53107998594",
+  "EMPNAME": "\tVYAGRESWARA SATYA NAGA SRIDHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 486,
+  "SRNO": 2154,
+  "EMPNO": "53107998636",
+  "EMPNAME": "\tKARANAM ASOK KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 487,
+  "SRNO": 2155,
+  "EMPNO": "53108098360",
+  "EMPNAME": "\tK.MOHAN MURALI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 488,
+  "SRNO": 2156,
+  "EMPNO": "53108249647",
+  "EMPNAME": "\tMOLLI JAYA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 489,
+  "SRNO": 2157,
+  "EMPNO": "53109262994",
+  "EMPNAME": "\tRAJAPANTULA LAKSHMANA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 490,
+  "SRNO": 2158,
+  "EMPNO": "53109263020",
+  "EMPNAME": "\tTADI NAGESWARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 491,
+  "SRNO": 2159,
+  "EMPNO": "53109263391",
+  "EMPNAME": "\tKOPPURAVURI PARDHA SARADHI",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 492,
+  "SRNO": 2160,
+  "EMPNO": "53109263767",
+  "EMPNAME": "\tGOPI KRISHNA . S",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 493,
+  "SRNO": 2161,
+  "EMPNO": "53109264980",
+  "EMPNAME": "\tPAGOTI BHASKARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 494,
+  "SRNO": 2162,
+  "EMPNO": "53109564690",
+  "EMPNAME": "\tPALLAPOTHU SURESH BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 495,
+  "SRNO": 2163,
+  "EMPNO": "53109639081",
+  "EMPNAME": "\tNISTALA BALA SUBRAHMANYAM",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 496,
+  "SRNO": 2164,
+  "EMPNO": "53109688432",
+  "EMPNAME": "\tLANKE VIJAYAKUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 497,
+  "SRNO": 2165,
+  "EMPNO": "53109690591",
+  "EMPNAME": "\tKALLA GANGADHARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 498,
+  "SRNO": 2166,
+  "EMPNO": "53111510584",
+  "EMPNAME": "\tAKASAPU MADHUSUDANA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 499,
+  "SRNO": 2167,
+  "EMPNO": "53105802829",
+  "EMPNAME": "\tY. DIVAKAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 500,
+  "SRNO": 2168,
+  "EMPNO": "12404236804",
+  "EMPNAME": "\tKUMARA SETHI",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 501,
+  "SRNO": 2169,
+  "EMPNO": "53105834405",
+  "EMPNAME": "\tMUDADLA SREENIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 502,
+  "SRNO": 2170,
+  "EMPNO": "53106455979",
+  "EMPNAME": "\tKANDREGULA SIVA SANKAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 503,
+  "SRNO": 2171,
+  "EMPNO": "53107316999",
+  "EMPNAME": "\tSEKHARAMAHANTI HANUMANTHA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 504,
+  "SRNO": 2173,
+  "EMPNO": "53107344314",
+  "EMPNAME": "\tCHITTIBOYINA VENKATA RAMANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 505,
+  "SRNO": 2174,
+  "EMPNO": "53109778810",
+  "EMPNAME": "\tASAPU JANAKIRAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 506,
+  "SRNO": 2175,
+  "EMPNO": "53107751084",
+  "EMPNAME": "\tBHEESETTY APPALA RAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 507,
+  "SRNO": 2176,
+  "EMPNO": "53107962307",
+  "EMPNAME": "\tMADDALA M. SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 508,
+  "SRNO": 2177,
+  "EMPNO": "53107962800",
+  "EMPNAME": "\tJANGAM MURALI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 509,
+  "SRNO": 2178,
+  "EMPNO": "53107964523",
+  "EMPNAME": "\tPOLAMARASETTY PRASADA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 510,
+  "SRNO": 2179,
+  "EMPNO": "53107998570",
+  "EMPNAME": "\tPANIGRAHI RAJENDRA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 511,
+  "SRNO": 2180,
+  "EMPNO": "53108001248",
+  "EMPNAME": "\tMANDAPATI MANI KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 512,
+  "SRNO": 2181,
+  "EMPNO": "53109266537",
+  "EMPNAME": "\tBOJANKI V.S. RAM KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 513,
+  "SRNO": 2182,
+  "EMPNO": "53109411112",
+  "EMPNAME": "\tSIRIPURAPU SRINU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 514,
+  "SRNO": 2183,
+  "EMPNO": "53109688936",
+  "EMPNAME": "\tCHINTALA JAGANNADHA RAMAYYA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 515,
+  "SRNO": 2184,
+  "EMPNO": "53109723500",
+  "EMPNAME": "\tYELLUMAHANTY SANKARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 516,
+  "SRNO": 2730,
+  "EMPNO": "53100060090",
+  "EMPNAME": "\tCHADUVULA SEETARAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 517,
+  "SRNO": 2732,
+  "EMPNO": "53102259060",
+  "EMPNAME": "\tSHAIK MADEENA VALI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 518,
+  "SRNO": 2733,
+  "EMPNO": "53104020431",
+  "EMPNAME": "\tKARROTHI RAJASEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 519,
+  "SRNO": 2734,
+  "EMPNO": "53104556471",
+  "EMPNAME": "\tALETI SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 520,
+  "SRNO": 2735,
+  "EMPNO": "53105040402",
+  "EMPNAME": "\tARASADA MURALI MOHAN",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 521,
+  "SRNO": 2736,
+  "EMPNO": "53105040421",
+  "EMPNAME": "\tKANURI SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 522,
+  "SRNO": 2737,
+  "EMPNO": "53105040700",
+  "EMPNAME": "\tV.SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 523,
+  "SRNO": 2738,
+  "EMPNO": "53100060119",
+  "EMPNAME": "\tRAVI BANDARU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 524,
+  "SRNO": 2739,
+  "EMPNO": "53105708199",
+  "EMPNAME": "\tJAGAN MOHAN GUDIMETLA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 525,
+  "SRNO": 2740,
+  "EMPNO": "53104040325",
+  "EMPNAME": "\tTEDLAPU VENKATA PRASADA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 526,
+  "SRNO": 2741,
+  "EMPNO": "53105971081",
+  "EMPNAME": "\tM.V.R.MOHANA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 527,
+  "SRNO": 2742,
+  "EMPNO": "53104040341",
+  "EMPNAME": "\tKOTA MADHUSUDHANA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 528,
+  "SRNO": 2743,
+  "EMPNO": "53106168905",
+  "EMPNAME": "\tPALURU GOURU NAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 529,
+  "SRNO": 2744,
+  "EMPNO": "53104040343",
+  "EMPNAME": "\tSANKARA RAO KONDETI",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 530,
+  "SRNO": 2746,
+  "EMPNO": "53104040345",
+  "EMPNAME": "\tDOSURI SATYA NARAYANA MURTHY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 531,
+  "SRNO": 2748,
+  "EMPNO": "53105020819",
+  "EMPNAME": "\tGOPALA REDDY BASAVA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 532,
+  "SRNO": 2750,
+  "EMPNO": "53105020932",
+  "EMPNAME": "\tKILLI MUTTI BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 533,
+  "SRNO": 2752,
+  "EMPNO": "53105040409",
+  "EMPNAME": "\tDEVERAKONDA VENKATA SURYA SUBH",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 534,
+  "SRNO": 2758,
+  "EMPNO": "53107991850",
+  "EMPNAME": "\tAKKALAPOTHU SREERAMULU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 535,
+  "SRNO": 2759,
+  "EMPNO": "53108089851",
+  "EMPNAME": "\tUNDI S.B.P. CHANDRA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 536,
+  "SRNO": 2760,
+  "EMPNO": "53108098268",
+  "EMPNAME": "\tM.NARASIMHA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 537,
+  "SRNO": 2761,
+  "EMPNO": "53108249570",
+  "EMPNAME": "\tS.N.MURTHY SEELABOYINA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 538,
+  "SRNO": 2764,
+  "EMPNO": "53109771220",
+  "EMPNAME": "\tMAHANTHI RAMESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 539,
+  "SRNO": 2765,
+  "EMPNO": "53109771270",
+  "EMPNAME": "\tKAMIDI RUBEN RAJA BABU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 540,
+  "SRNO": 2766,
+  "EMPNO": "53150404449",
+  "EMPNAME": "\tMASABATTULA JAGADHEESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 541,
+  "SRNO": 2768,
+  "EMPNO": "53199427436",
+  "EMPNAME": "\tCHANDAKA SREENIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 542,
+  "SRNO": 2770,
+  "EMPNO": "50705834442",
+  "EMPNAME": "\tMADABATHULA RAMBABU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 543,
+  "SRNO": 2771,
+  "EMPNO": "53104020431",
+  "EMPNAME": "\tKARROTHI RAJASEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 544,
+  "SRNO": 2772,
+  "EMPNO": "53101795934",
+  "EMPNAME": "\tKOLLU VENKATA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 545,
+  "SRNO": 2773,
+  "EMPNO": "53105040415",
+  "EMPNAME": "\tGONTHINA RAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 546,
+  "SRNO": 2774,
+  "EMPNO": "53105040420",
+  "EMPNAME": "\tKALLA VENKATA CHALAPATHI RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 547,
+  "SRNO": 2775,
+  "EMPNO": "53105040445",
+  "EMPNAME": "\tMARIPI RAMBABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 548,
+  "SRNO": 2776,
+  "EMPNO": "53105040445",
+  "EMPNAME": "\tMARIPI RAMBABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 549,
+  "SRNO": 2779,
+  "EMPNO": "53107994631",
+  "EMPNAME": "\tAKULA JAGADISH KUMAR APPA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 550,
+  "SRNO": 2781,
+  "EMPNO": "53108000347",
+  "EMPNAME": "\tCHILUMURI SANYASI NAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 551,
+  "SRNO": 2783,
+  "EMPNO": "53109722531",
+  "EMPNAME": "\tASAM VENKATA SATYANARAYANA MURTHY",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 552,
+  "SRNO": 2785,
+  "EMPNO": "53109771219",
+  "EMPNAME": "\tMOKA RAJANI KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 553,
+  "SRNO": 2786,
+  "EMPNO": "53150300952",
+  "EMPNAME": "\tKILLI CHANDRA SEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 554,
+  "SRNO": 2787,
+  "EMPNO": "53109778639",
+  "EMPNAME": "\tMALLA SIVA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 555,
+  "SRNO": 2789,
+  "EMPNO": "53150405950",
+  "EMPNAME": "\tVADDI RAMAKRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 556,
+  "SRNO": 2790,
+  "EMPNO": "53164070057",
+  "EMPNAME": "\tKOTESWARA RAO TEPPALA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 557,
+  "SRNO": 2791,
+  "EMPNO": "53164070057",
+  "EMPNAME": "\tKOTESWARA RAO TEPPALA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 558,
+  "SRNO": 2792,
+  "EMPNO": "53107994564",
+  "EMPNAME": "\tSOMAYAJULA VENKATA SIVARAMA KRISHNA",
+  "STATION": "WAT",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 559,
+  "SRNO": 2793,
+  "EMPNO": "53164060067",
+  "EMPNAME": "\tPALLI SRIKANTH",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 560,
+  "SRNO": 2882,
+  "EMPNO": "53105987374",
+  "EMPNAME": "\tTEKKALI.S.G.S.R.APPALA NAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 561,
+  "SRNO": 2888,
+  "EMPNO": "53161482810",
+  "EMPNAME": "\tGEDELA APPALA  NAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 562,
+  "SRNO": 2896,
+  "EMPNO": "53101974993",
+  "EMPNAME": "\tYANDRAPU VENKATA RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 563,
+  "SRNO": 4714,
+  "EMPNO": "53107991666",
+  "EMPNAME": "\tSURISETTY PENTA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "LP (GOODS)",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 564,
+  "SRNO": 2081,
+  "EMPNO": "53107308486",
+  "EMPNAME": "\tBAVARA KASI VISWANADHAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 565,
+  "SRNO": 2082,
+  "EMPNO": "53107308899",
+  "EMPNAME": "\tCHOWTA VISWESWARA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 566,
+  "SRNO": 2083,
+  "EMPNO": "53107309466",
+  "EMPNAME": "\tBIRENDRANATH SINGH",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 567,
+  "SRNO": 2085,
+  "EMPNO": "53107314759",
+  "EMPNAME": "\tHARI BANDU DOLAI",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 568,
+  "SRNO": 2146,
+  "EMPNO": "53107304559",
+  "EMPNAME": "\tPINAGADI SANJEEVA RAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 569,
+  "SRNO": 2172,
+  "EMPNO": "53107304559",
+  "EMPNAME": "\tPINAGADI SANJEEVA RAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 570,
+  "SRNO": 2731,
+  "EMPNO": "53100715988",
+  "EMPNAME": "\tRAVUPALLI LAXMANA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 571,
+  "SRNO": 2745,
+  "EMPNO": "53107309193",
+  "EMPNAME": "\tA.SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 572,
+  "SRNO": 2755,
+  "EMPNO": "53107331538",
+  "EMPNAME": "\tSIRIYALA CHITTI BABU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 573,
+  "SRNO": 2778,
+  "EMPNO": "53107309193",
+  "EMPNAME": "\tA.SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 574,
+  "SRNO": 2780,
+  "EMPNO": "53107318698",
+  "EMPNAME": "\tGORAPALLI RAM MOHAN",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 575,
+  "SRNO": 2782,
+  "EMPNO": "53107992725",
+  "EMPNAME": "\tKOMBATHULA RATNA RAJU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 576,
+  "SRNO": 2784,
+  "EMPNO": "53108098219",
+  "EMPNAME": "\tKANTA VIJAYA BHASKARA MURTHY",
+  "STATION": "RGDA",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 577,
+  "SRNO": 2889,
+  "EMPNO": "53100952420",
+  "EMPNAME": "\tBUDDEPU HARIKRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 578,
+  "SRNO": 2891,
+  "EMPNO": "53107311709",
+  "EMPNAME": "\tNEYYALA DHARMA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(MAIL\/EXP)",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 579,
+  "SRNO": 1967,
+  "EMPNO": "53107317992",
+  "EMPNAME": "\tMUTHI REDDI HARI KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 580,
+  "SRNO": 2015,
+  "EMPNO": "53109527217",
+  "EMPNAME": "\tUDDAVOLU SEKHAR",
+  "STATION": "WAT",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104475"
+ },
+ {
+  "id": 581,
+  "SRNO": 2747,
+  "EMPNO": "53107317396",
+  "EMPNAME": "\tBANDARU SURYA VENKATA RAMESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 582,
+  "SRNO": 2749,
+  "EMPNO": "53107319253",
+  "EMPNAME": "\tP.SRIDHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 583,
+  "SRNO": 2751,
+  "EMPNO": "53107319770",
+  "EMPNAME": "\tANNEPU ANANDA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 584,
+  "SRNO": 2753,
+  "EMPNO": "53107319782",
+  "EMPNAME": "\tKAJA SUBBA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 585,
+  "SRNO": 2754,
+  "EMPNO": "53107319800",
+  "EMPNAME": "\tP.U.V.SATYANARAYANA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 586,
+  "SRNO": 2756,
+  "EMPNO": "53107990510",
+  "EMPNAME": "\tY.V.S.SEKHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 587,
+  "SRNO": 2757,
+  "EMPNO": "53107990625",
+  "EMPNAME": "\tDANTLA DASU",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 588,
+  "SRNO": 2762,
+  "EMPNO": "53109527199",
+  "EMPNAME": "\tPAKKI VENKATAPPA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 589,
+  "SRNO": 2763,
+  "EMPNO": "53109644921",
+  "EMPNAME": "\tMALLA J.N.N.M.APPA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 300,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 590,
+  "SRNO": 2777,
+  "EMPNO": "53107319745",
+  "EMPNAME": "\tM.HARI RAMA KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "LP(PASS)",
+  "AMT": 360,
+  "BILLUNIT": "3104485"
+ },
+ {
+  "id": 591,
+  "SRNO": 1596,
+  "EMPNO": "243IF130810",
+  "EMPNAME": "\tR.RAMESH RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 592,
+  "SRNO": 1597,
+  "EMPNO": "246IK130733",
+  "EMPNAME": "\tV.RAJENDRA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 593,
+  "SRNO": 1598,
+  "EMPNO": "30229800809",
+  "EMPNAME": "\tBUSARI APPALASATYAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 594,
+  "SRNO": 1599,
+  "EMPNO": "30229800842",
+  "EMPNAME": "\tPENTAPALLI PRAKASH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 595,
+  "SRNO": 1600,
+  "EMPNO": "30229801861",
+  "EMPNAME": "\tKOILADA HARISH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 596,
+  "SRNO": 1601,
+  "EMPNO": "30429800472",
+  "EMPNAME": "\tKOTTURI ANIL KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 597,
+  "SRNO": 1602,
+  "EMPNO": "30429800475",
+  "EMPNAME": "\tMANISH KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 598,
+  "SRNO": 1603,
+  "EMPNO": "30429800539",
+  "EMPNAME": "\tKOKKILIGADDA NAGENDRA BABU",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 599,
+  "SRNO": 1605,
+  "EMPNO": "30429800564",
+  "EMPNAME": "\tNIRAJ KUMAR JHA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 600,
+  "SRNO": 1606,
+  "EMPNO": "30429800568",
+  "EMPNAME": "\tVIKASH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 601,
+  "SRNO": 1607,
+  "EMPNO": "30429800570",
+  "EMPNAME": "\tPALA TIRUPATHI",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 602,
+  "SRNO": 1608,
+  "EMPNO": "30429800571",
+  "EMPNAME": "\tPALINDRA SINGH",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 603,
+  "SRNO": 1609,
+  "EMPNO": "30429800577",
+  "EMPNAME": "\tANAND KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 604,
+  "SRNO": 1610,
+  "EMPNO": "30429800757",
+  "EMPNAME": "\tSHASHI KANT KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 605,
+  "SRNO": 1611,
+  "EMPNO": "30429800764",
+  "EMPNAME": "\tPAPEEN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 606,
+  "SRNO": 1612,
+  "EMPNO": "30429800795",
+  "EMPNAME": "\tD.ROHIT KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 607,
+  "SRNO": 1614,
+  "EMPNO": "21229807240",
+  "EMPNAME": "\tRAUSHAN KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 608,
+  "SRNO": 1626,
+  "EMPNO": "30429800476",
+  "EMPNAME": "\tRAHUL CHANDRA KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 609,
+  "SRNO": 1628,
+  "EMPNO": "30229800922",
+  "EMPNAME": "\tKITTALI RAMA KRUSHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 610,
+  "SRNO": 1630,
+  "EMPNO": "30229801861",
+  "EMPNAME": "\tKOILADA HARISH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 611,
+  "SRNO": 1634,
+  "EMPNO": "30429800464",
+  "EMPNAME": "\tGAJENDRA KUMAR SINGH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 612,
+  "SRNO": 1639,
+  "EMPNO": "30429800757",
+  "EMPNAME": "\tSHASHI KANT KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 613,
+  "SRNO": 1641,
+  "EMPNO": "30429800758",
+  "EMPNAME": "\tHARIKESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 614,
+  "SRNO": 1653,
+  "EMPNO": "30429800583",
+  "EMPNAME": "\tMANISH KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 615,
+  "SRNO": 1654,
+  "EMPNO": "24229801576",
+  "EMPNAME": "\tPUDI VENKATA RAMANA",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 616,
+  "SRNO": 1655,
+  "EMPNO": "30429800477",
+  "EMPNAME": "\tPALADA SRINUVASA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 617,
+  "SRNO": 1665,
+  "EMPNO": "245II132564",
+  "EMPNAME": "\tBIJAY KUMAR SINGH",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104469"
+ },
+ {
+  "id": 618,
+  "SRNO": 1666,
+  "EMPNO": "242IE120229",
+  "EMPNAME": "\tSURI BABU GANDI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 619,
+  "SRNO": 1667,
+  "EMPNO": "244IG132204",
+  "EMPNAME": "\tRAVI KUMAR KORADA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 620,
+  "SRNO": 1668,
+  "EMPNO": "245II132345",
+  "EMPNAME": "\tB RAJESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 621,
+  "SRNO": 1673,
+  "EMPNO": "30429802717",
+  "EMPNAME": "\tNETINTI SIVAPRASAD",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 622,
+  "SRNO": 1674,
+  "EMPNO": "30429802722",
+  "EMPNAME": "\tANANTHA MAHESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 623,
+  "SRNO": 1675,
+  "EMPNO": "30429802725",
+  "EMPNAME": "\tOBIREDDI VENKATA SANTOSHI NAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 624,
+  "SRNO": 1676,
+  "EMPNO": "30429802783",
+  "EMPNAME": "\tREDDI KULADEEP",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 625,
+  "SRNO": 1677,
+  "EMPNO": "30429802785",
+  "EMPNAME": "\tKOLLI GOVINDARAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 626,
+  "SRNO": 1678,
+  "EMPNO": "30429802787",
+  "EMPNAME": "\tPEDIREDDI SURYANARAYANA",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 627,
+  "SRNO": 1679,
+  "EMPNO": "30429802788",
+  "EMPNAME": "\tPANKAJ PANDEY",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 628,
+  "SRNO": 1680,
+  "EMPNO": "30429802789",
+  "EMPNAME": "\tCHINTALA RAMU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 629,
+  "SRNO": 1681,
+  "EMPNO": "30429802790",
+  "EMPNAME": "\tDIVASAM SRINIVASU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 630,
+  "SRNO": 1682,
+  "EMPNO": "30429802794",
+  "EMPNAME": "\tKAMBALA MUTYALA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 631,
+  "SRNO": 1683,
+  "EMPNO": "30429802795",
+  "EMPNAME": "\tPATTA.DHILLEMMA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 632,
+  "SRNO": 1684,
+  "EMPNO": "30429802796",
+  "EMPNAME": "\tBORRA SWAMY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 633,
+  "SRNO": 1685,
+  "EMPNO": "30429802798",
+  "EMPNAME": "\tMUVVALA SAI RATNA VAMSI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 634,
+  "SRNO": 1686,
+  "EMPNO": "30429802799",
+  "EMPNAME": "\tVELAMALA SURYANARAYANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 635,
+  "SRNO": 1687,
+  "EMPNO": "30429802801",
+  "EMPNAME": "\tGEMBALI SANTOSH KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 636,
+  "SRNO": 1688,
+  "EMPNO": "30429802802",
+  "EMPNAME": "\tRAMALINGAM UDAYINI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 637,
+  "SRNO": 1689,
+  "EMPNO": "30429802805",
+  "EMPNAME": "\tKANDRAPU LEELA RANI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 638,
+  "SRNO": 1690,
+  "EMPNO": "30429802807",
+  "EMPNAME": "\tSATIVADA SARAT KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 639,
+  "SRNO": 1691,
+  "EMPNO": "30429802808",
+  "EMPNAME": "\tRAVIPALLI RAJESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 640,
+  "SRNO": 1692,
+  "EMPNO": "30429802809",
+  "EMPNAME": "\tANNEPU SURESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 641,
+  "SRNO": 1693,
+  "EMPNO": "30429802810",
+  "EMPNAME": "\tREDDY RAMAKRISHNA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 642,
+  "SRNO": 1694,
+  "EMPNO": "30429802812",
+  "EMPNAME": "\tDOKKARA PRADEEPKUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 643,
+  "SRNO": 1696,
+  "EMPNO": "30429802818",
+  "EMPNAME": "\tRONANKI MADHU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 644,
+  "SRNO": 1697,
+  "EMPNO": "30429802820",
+  "EMPNAME": "\tSHAIK AJAHRUDDIN",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 645,
+  "SRNO": 1698,
+  "EMPNO": "30429802825",
+  "EMPNAME": "\tKILLI GIRISH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 646,
+  "SRNO": 1699,
+  "EMPNO": "30429802827",
+  "EMPNAME": "\tPYLA GANESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 647,
+  "SRNO": 1700,
+  "EMPNO": "30429802828",
+  "EMPNAME": "\tVARIGALA NAVEEN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 648,
+  "SRNO": 1701,
+  "EMPNO": "30429802829",
+  "EMPNAME": "\tRANJEET KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 649,
+  "SRNO": 1702,
+  "EMPNO": "30429802830",
+  "EMPNAME": "\tKUMILI MURALI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 650,
+  "SRNO": 1703,
+  "EMPNO": "30429803137",
+  "EMPNAME": "\tGIDUTURU MOHAN",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 651,
+  "SRNO": 1705,
+  "EMPNO": "42501022210",
+  "EMPNAME": "\tVISWESWARA RAO BASANI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 652,
+  "SRNO": 1744,
+  "EMPNO": "15329802248",
+  "EMPNAME": "\tALLU SAIRAM",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 653,
+  "SRNO": 1745,
+  "EMPNO": "15660900635",
+  "EMPNAME": "\tGOWRI SANKAR KARRI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 654,
+  "SRNO": 1749,
+  "EMPNO": "39529802718",
+  "EMPNAME": "\tRAJESH JENJETI",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 655,
+  "SRNO": 1751,
+  "EMPNO": "42608D99995",
+  "EMPNAME": "\tRAMANAPEDADA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 656,
+  "SRNO": 1752,
+  "EMPNO": "244IG132511",
+  "EMPNAME": "\tJOGA  SRINIVASU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 657,
+  "SRNO": 1754,
+  "EMPNO": "24529803883",
+  "EMPNAME": "\tSHAIK SADHIK",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 658,
+  "SRNO": 1755,
+  "EMPNO": "24529803935",
+  "EMPNAME": "\tCH SRIKANTH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 659,
+  "SRNO": 1756,
+  "EMPNO": "24529804010",
+  "EMPNAME": "\tREDDI KAMUNAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 660,
+  "SRNO": 1762,
+  "EMPNO": "30229802033",
+  "EMPNAME": "\tPOTNURU SYAMALARAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 661,
+  "SRNO": 1763,
+  "EMPNO": "30229802096",
+  "EMPNAME": "\tJALUMURU CHAKRADHARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 662,
+  "SRNO": 1764,
+  "EMPNO": "30229802905",
+  "EMPNAME": "\tEDIBILLI  SANYASINAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 663,
+  "SRNO": 1767,
+  "EMPNO": "424N0550183",
+  "EMPNAME": "\tLENKA VENKATI NAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 664,
+  "SRNO": 1768,
+  "EMPNO": "42608D99995",
+  "EMPNAME": "\tRAMANAPEDADA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 665,
+  "SRNO": 1773,
+  "EMPNO": "30429802786",
+  "EMPNAME": "\tPAILA RAVI",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 666,
+  "SRNO": 1774,
+  "EMPNO": "30429802821",
+  "EMPNAME": "\tNADIMINTI VINAY KUMAR",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 667,
+  "SRNO": 1775,
+  "EMPNO": "30429802831",
+  "EMPNAME": "\tREDDY VENKATESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 668,
+  "SRNO": 1776,
+  "EMPNO": "30429802822",
+  "EMPNAME": "\tVELIDI JYOTHI SWAROOP",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104470"
+ },
+ {
+  "id": 669,
+  "SRNO": 1800,
+  "EMPNO": "21229807432",
+  "EMPNAME": "\tLAKSHMAN KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 670,
+  "SRNO": 1802,
+  "EMPNO": "24529801438",
+  "EMPNAME": "\tRAHUL KUMAR SAHU",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 671,
+  "SRNO": 1809,
+  "EMPNO": "15840074482",
+  "EMPNAME": "\tANILKUMAR RAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 672,
+  "SRNO": 1812,
+  "EMPNO": "30229800844",
+  "EMPNAME": "\tNOOKA RAJU KANITHI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 673,
+  "SRNO": 1814,
+  "EMPNO": "30329800708",
+  "EMPNAME": "\tPARAVADA SANYASI NAIDU",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 674,
+  "SRNO": 1815,
+  "EMPNO": "39529801759",
+  "EMPNAME": "\tGANDIBOINA GANESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 675,
+  "SRNO": 1817,
+  "EMPNO": "30329800694",
+  "EMPNAME": "\tVENKATA MOHAN KUMAR MUGANTI",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 676,
+  "SRNO": 1819,
+  "EMPNO": "30229802200",
+  "EMPNAME": "\tBANTU RAMA GOVINDA NARASINGA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104471"
+ },
+ {
+  "id": 677,
+  "SRNO": 1822,
+  "EMPNO": "30429803105",
+  "EMPNAME": "\tSHAIK MASTAN SHAREEF",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 678,
+  "SRNO": 1823,
+  "EMPNO": "30429803247",
+  "EMPNAME": "\tDAMULURI  MAHESH  KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 679,
+  "SRNO": 1824,
+  "EMPNO": "42607D00201",
+  "EMPNAME": "\tLEKKALADEMULLU",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 680,
+  "SRNO": 1846,
+  "EMPNO": "24229806257",
+  "EMPNAME": "\tYALAMANCHILI MAHANTA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 681,
+  "SRNO": 1852,
+  "EMPNO": "30229802815",
+  "EMPNAME": "\tKONNA SATYAVATHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 682,
+  "SRNO": 1853,
+  "EMPNO": "30229802871",
+  "EMPNAME": "\tKINJARAPU SRIKANTH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 683,
+  "SRNO": 1855,
+  "EMPNO": "30329801078",
+  "EMPNAME": "\tBONDADA KIRAN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 684,
+  "SRNO": 1861,
+  "EMPNO": "30429803247",
+  "EMPNAME": "\tDAMULURI  MAHESH  KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 685,
+  "SRNO": 1864,
+  "EMPNO": "39529802125",
+  "EMPNAME": "\tPYDIKILLI INDU SEKHAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 686,
+  "SRNO": 1865,
+  "EMPNO": "39529802200",
+  "EMPNAME": "\tASHA GANESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 687,
+  "SRNO": 1866,
+  "EMPNO": "42529802740",
+  "EMPNAME": "\tVANKALA JEEVAN RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 688,
+  "SRNO": 1877,
+  "EMPNO": "30429803112",
+  "EMPNAME": "\tMOHANA  RAO  AKULA",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 689,
+  "SRNO": 1878,
+  "EMPNO": "30429803114",
+  "EMPNAME": "\tPRAHLAD KUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 690,
+  "SRNO": 1879,
+  "EMPNO": "30429803132",
+  "EMPNAME": "\tMAJJI KOTESWARARAO",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 691,
+  "SRNO": 1880,
+  "EMPNO": "30429803127",
+  "EMPNAME": "\tREDDY  RAMESH",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 692,
+  "SRNO": 1881,
+  "EMPNO": "30429803131",
+  "EMPNAME": "\tGEDELA RAMBABU",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 693,
+  "SRNO": 1883,
+  "EMPNO": "30429803112",
+  "EMPNAME": "\tMOHANA  RAO  AKULA",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 694,
+  "SRNO": 1885,
+  "EMPNO": "30429803123",
+  "EMPNAME": "\tPOTHALA  GOWRINAIDU",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 695,
+  "SRNO": 1886,
+  "EMPNO": "30429803136",
+  "EMPNAME": "\tTEDLAPU  SAI  MANI",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 696,
+  "SRNO": 1887,
+  "EMPNO": "30429803141",
+  "EMPNAME": "\tMEDAPUREDDI  UMAMAHESWARA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 697,
+  "SRNO": 1888,
+  "EMPNO": "30429803266",
+  "EMPNAME": "\tKURAGANTI MAHESH",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104472"
+ },
+ {
+  "id": 698,
+  "SRNO": 2019,
+  "EMPNO": "12929800332",
+  "EMPNAME": "\tTUHIN ROY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 699,
+  "SRNO": 2020,
+  "EMPNO": "21229806907",
+  "EMPNAME": "\tDEVENDRA KUMAR VERMA",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 700,
+  "SRNO": 2021,
+  "EMPNO": "30429803113",
+  "EMPNAME": "\tRAM AWTAR TYAGI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 701,
+  "SRNO": 2022,
+  "EMPNO": "30429803122",
+  "EMPNAME": "\tETI VENKATA SAI SARAN",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 702,
+  "SRNO": 2023,
+  "EMPNO": "30429803165",
+  "EMPNAME": "\tSARITHI SWAMINAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 703,
+  "SRNO": 2024,
+  "EMPNO": "30429803198",
+  "EMPNAME": "\tYOGENDRA KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 704,
+  "SRNO": 2042,
+  "EMPNO": "24429806126",
+  "EMPNAME": "\tRAJANA TRINADHA MANIKANTA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 705,
+  "SRNO": 2043,
+  "EMPNO": "30229802499",
+  "EMPNAME": "\tPUJARI SUMAN",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 706,
+  "SRNO": 2045,
+  "EMPNO": "30229802906",
+  "EMPNAME": "\tJAGARAPU PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 707,
+  "SRNO": 2047,
+  "EMPNO": "30229803031",
+  "EMPNAME": "\tMANDALA SRINIVASA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 708,
+  "SRNO": 2049,
+  "EMPNO": "30229803055",
+  "EMPNAME": "\tKORIBILLI UDAY MOHAN MURALI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 709,
+  "SRNO": 2050,
+  "EMPNO": "30429803108",
+  "EMPNAME": "\tCHEKURI VENKATA SRIRISH VARMA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 710,
+  "SRNO": 2052,
+  "EMPNO": "30429803196",
+  "EMPNAME": "\tNETINTI PRASANNA KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 711,
+  "SRNO": 2069,
+  "EMPNO": "53163090135",
+  "EMPNAME": "\tPOLINATI NAGESWARA RAO",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 712,
+  "SRNO": 2071,
+  "EMPNO": "30429803156",
+  "EMPNAME": "\tSIRIPARAPU RAMACHANDRA RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104476"
+ },
+ {
+  "id": 713,
+  "SRNO": 2077,
+  "EMPNO": "00674906677",
+  "EMPNAME": "\tP.SUDHAKAR RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104477"
+ },
+ {
+  "id": 714,
+  "SRNO": 2141,
+  "EMPNO": "00505979699",
+  "EMPNAME": "\tANDHAVARAPU VISHNUMURTHY",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 715,
+  "SRNO": 2142,
+  "EMPNO": "00505980021",
+  "EMPNAME": "\tKELLA VENKATA RAMANA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104479"
+ },
+ {
+  "id": 716,
+  "SRNO": 2305,
+  "EMPNO": "00329804349",
+  "EMPNAME": "\tSANJOY PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 717,
+  "SRNO": 2306,
+  "EMPNO": "15215MS2181",
+  "EMPNAME": "\tSANYASI NAIDU BANDARU",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 718,
+  "SRNO": 2307,
+  "EMPNO": "15660900660",
+  "EMPNAME": "\tMALLA RAMA KOTI SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 719,
+  "SRNO": 2308,
+  "EMPNO": "15661309953",
+  "EMPNAME": "\tKIRAN KUMAR VASANTHA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 720,
+  "SRNO": 2309,
+  "EMPNO": "24229801386",
+  "EMPNAME": "\tJAGARANA DHILIP KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 721,
+  "SRNO": 2310,
+  "EMPNO": "24229801595",
+  "EMPNAME": "\tKALYANAM SANTHOSH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 722,
+  "SRNO": 2311,
+  "EMPNO": "24229801608",
+  "EMPNAME": "\tKORUBILLI SIVA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 723,
+  "SRNO": 2312,
+  "EMPNO": "24229802111",
+  "EMPNAME": "\tETCHERLA KIRAN",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 724,
+  "SRNO": 2313,
+  "EMPNO": "24229802385",
+  "EMPNAME": "\tPUPPALA HARSHAVARDHAN",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 725,
+  "SRNO": 2314,
+  "EMPNO": "242IE140118",
+  "EMPNAME": "\tSRIKANT",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 726,
+  "SRNO": 2315,
+  "EMPNO": "244IG132649",
+  "EMPNAME": "\tR.SATISH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 727,
+  "SRNO": 2316,
+  "EMPNO": "244IG160456",
+  "EMPNAME": "\tUNGATI CHANDRASEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 728,
+  "SRNO": 2317,
+  "EMPNO": "244IG160462",
+  "EMPNAME": "\tM.SARATH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 729,
+  "SRNO": 2318,
+  "EMPNO": "244IG160473",
+  "EMPNAME": "\tP.SAIRAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 730,
+  "SRNO": 2319,
+  "EMPNO": "24529801446",
+  "EMPNAME": "\tGAUTAM KISHOR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 731,
+  "SRNO": 2320,
+  "EMPNO": "24529803902",
+  "EMPNAME": "\tKORLAPU HARI KRISHNA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 732,
+  "SRNO": 2321,
+  "EMPNO": "24529804089",
+  "EMPNAME": "\tV SWAPNA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 733,
+  "SRNO": 2322,
+  "EMPNO": "246IJ120020",
+  "EMPNAME": "\tN.VEERA SWAMY",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 734,
+  "SRNO": 2323,
+  "EMPNO": "246IJ150059",
+  "EMPNAME": "\tSANJAY KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 735,
+  "SRNO": 2324,
+  "EMPNO": "30429800970",
+  "EMPNAME": "\tOM PRAKASH",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 736,
+  "SRNO": 2325,
+  "EMPNO": "30429801017",
+  "EMPNAME": "\tBIPIN BIHARI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 737,
+  "SRNO": 2326,
+  "EMPNO": "30429801030",
+  "EMPNAME": "\tRAJESH BABU ANGALAKUDITI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 738,
+  "SRNO": 2327,
+  "EMPNO": "30429801035",
+  "EMPNAME": "\tPENKI RAJASEKHAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 739,
+  "SRNO": 2328,
+  "EMPNO": "30429801040",
+  "EMPNAME": "\tKRISHNA PURTY",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 740,
+  "SRNO": 2329,
+  "EMPNO": "30429801043",
+  "EMPNAME": "\tAMARJEET KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 741,
+  "SRNO": 2330,
+  "EMPNO": "30429801044",
+  "EMPNAME": "\tAWADHESH CHOUDHARY",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 742,
+  "SRNO": 2331,
+  "EMPNO": "30429801057",
+  "EMPNAME": "\tSHASHI RAJ",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 743,
+  "SRNO": 2332,
+  "EMPNO": "30429801062",
+  "EMPNAME": "\tVIKASH KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 744,
+  "SRNO": 2333,
+  "EMPNO": "30429801077",
+  "EMPNAME": "\tBONI DURGA SANKARA SRINIVASA RAO",
+  "STATION": "KRDL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 745,
+  "SRNO": 2334,
+  "EMPNO": "30429801080",
+  "EMPNAME": "\tGARA PAVAN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 746,
+  "SRNO": 2335,
+  "EMPNO": "30429801086",
+  "EMPNAME": "\tBOTTA VIDYA SAGAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 747,
+  "SRNO": 2336,
+  "EMPNO": "30429801090",
+  "EMPNAME": "\tSAKALABAKTULA GOPAL",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 748,
+  "SRNO": 2337,
+  "EMPNO": "30429801092",
+  "EMPNAME": "\tDEVARAKONDA MANIKANTA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 749,
+  "SRNO": 2338,
+  "EMPNO": "30429801096",
+  "EMPNAME": "\tUPENDRA KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 750,
+  "SRNO": 2339,
+  "EMPNO": "30429801100",
+  "EMPNAME": "\tPHANI KUMAR BARANIKANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 751,
+  "SRNO": 2340,
+  "EMPNO": "30429801112",
+  "EMPNAME": "\tPREMJEET KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 752,
+  "SRNO": 2341,
+  "EMPNO": "30429801113",
+  "EMPNAME": "\tRAVI SINGH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 753,
+  "SRNO": 2342,
+  "EMPNO": "30429801115",
+  "EMPNAME": "\tNIRAJ KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 754,
+  "SRNO": 2343,
+  "EMPNO": "30429801117",
+  "EMPNAME": "\tAWINASH KUMAR KESHRI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 755,
+  "SRNO": 2344,
+  "EMPNO": "30429801119",
+  "EMPNAME": "\tNADAGANA MOHAN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 756,
+  "SRNO": 2345,
+  "EMPNO": "30429801142",
+  "EMPNAME": "\tMOHAN GANDHI",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 757,
+  "SRNO": 2346,
+  "EMPNO": "30429801143",
+  "EMPNAME": "\tRAVINDRA MANDAL",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 758,
+  "SRNO": 2347,
+  "EMPNO": "30429801161",
+  "EMPNAME": "\tAVINASH KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 759,
+  "SRNO": 2348,
+  "EMPNO": "30429801165",
+  "EMPNAME": "\tVASUDEVA RAO KOTNI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 760,
+  "SRNO": 2349,
+  "EMPNO": "30429801170",
+  "EMPNAME": "\tSURISETTI BANUMATHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 761,
+  "SRNO": 2350,
+  "EMPNO": "30429801199",
+  "EMPNAME": "\tSACHIN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 762,
+  "SRNO": 2351,
+  "EMPNO": "30429801200",
+  "EMPNAME": "\tSHANTANU VISHWAKARMA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 763,
+  "SRNO": 2352,
+  "EMPNO": "30429801201",
+  "EMPNAME": "\tJITENDRA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 764,
+  "SRNO": 2353,
+  "EMPNO": "30429801207",
+  "EMPNAME": "\tPANKAJ KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 765,
+  "SRNO": 2354,
+  "EMPNO": "30429802463",
+  "EMPNAME": "\tGUNTAMUKKALA VINAY KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 766,
+  "SRNO": 2355,
+  "EMPNO": "30429802469",
+  "EMPNAME": "\tKATTUMURI KUMARI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 767,
+  "SRNO": 2356,
+  "EMPNO": "30429802470",
+  "EMPNAME": "\tADARI JAGADEESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 768,
+  "SRNO": 2357,
+  "EMPNO": "30429802475",
+  "EMPNAME": "\tAMPOLU SANTHOSH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 769,
+  "SRNO": 2358,
+  "EMPNO": "30429802485",
+  "EMPNAME": "\tKARANAM SAI SIVA GANESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 770,
+  "SRNO": 2359,
+  "EMPNO": "30429802486",
+  "EMPNAME": "\tKOLLI RAMESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 771,
+  "SRNO": 2360,
+  "EMPNO": "30429802487",
+  "EMPNAME": "\tMERUVU ASHOK KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 772,
+  "SRNO": 2362,
+  "EMPNO": "30429802489",
+  "EMPNAME": "\tMATSA KRISHNA",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 773,
+  "SRNO": 2363,
+  "EMPNO": "30429802492",
+  "EMPNAME": "\tDUNNA PRASAD",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 774,
+  "SRNO": 2364,
+  "EMPNO": "30429802493",
+  "EMPNAME": "\tSURLA RAJUGANESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 775,
+  "SRNO": 2365,
+  "EMPNO": "30429802494",
+  "EMPNAME": "\tPONNADA RAVISHANKAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 776,
+  "SRNO": 2366,
+  "EMPNO": "30429802502",
+  "EMPNAME": "\tNARISE HARI BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 777,
+  "SRNO": 2367,
+  "EMPNO": "30429802504",
+  "EMPNAME": "\tDUGANA LOKESWARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 778,
+  "SRNO": 2368,
+  "EMPNO": "30429802507",
+  "EMPNAME": "\tCHAPPA SRIDEVI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 779,
+  "SRNO": 2369,
+  "EMPNO": "30429802509",
+  "EMPNAME": "\tKOSURU PRADEEP KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 780,
+  "SRNO": 2370,
+  "EMPNO": "30429802512",
+  "EMPNAME": "\tKAKARLA SUBHASH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 781,
+  "SRNO": 2371,
+  "EMPNO": "30429802515",
+  "EMPNAME": "\tKENGUVA PADMA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 782,
+  "SRNO": 2372,
+  "EMPNO": "30429802516",
+  "EMPNAME": "\tSINAMAREDDY RAMANA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 783,
+  "SRNO": 2373,
+  "EMPNO": "30429802519",
+  "EMPNAME": "\tBORA VIJAYKUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 784,
+  "SRNO": 2374,
+  "EMPNO": "30429802520",
+  "EMPNAME": "\tKONKI DHILLESWARA RAO",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 785,
+  "SRNO": 2375,
+  "EMPNO": "30429802521",
+  "EMPNAME": "\tVARANASI MAHESH UDAYASANKAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 786,
+  "SRNO": 2376,
+  "EMPNO": "30429802523",
+  "EMPNAME": "\tKOLLA DHEERAJ NAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 787,
+  "SRNO": 2377,
+  "EMPNO": "30429802526",
+  "EMPNAME": "\tSEPENA ASHOK KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 788,
+  "SRNO": 2378,
+  "EMPNO": "30429802529",
+  "EMPNAME": "\tPENDYALA TARAKARAM",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 789,
+  "SRNO": 2379,
+  "EMPNO": "30429802532",
+  "EMPNAME": "\tPALLI SIVASIMMANNA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 790,
+  "SRNO": 2380,
+  "EMPNO": "30429802535",
+  "EMPNAME": "\tSEEPANA VINOD KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 791,
+  "SRNO": 2381,
+  "EMPNO": "30429802536",
+  "EMPNAME": "\tMUNJETI SURESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 792,
+  "SRNO": 2382,
+  "EMPNO": "30429802537",
+  "EMPNAME": "\tSANTOSH KUMAR BEHERA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 793,
+  "SRNO": 2383,
+  "EMPNO": "30429802538",
+  "EMPNAME": "\tKORNI NAGA APPALAKRISHNA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 794,
+  "SRNO": 2384,
+  "EMPNO": "30429802543",
+  "EMPNAME": "\tVINOD KUMAR CHITTI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 795,
+  "SRNO": 2385,
+  "EMPNO": "30429802545",
+  "EMPNAME": "\tDAVALA RAMA CHADRA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 796,
+  "SRNO": 2386,
+  "EMPNO": "30429802546",
+  "EMPNAME": "\tRAHUL KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 797,
+  "SRNO": 2387,
+  "EMPNO": "30429802550",
+  "EMPNAME": "\tKOLA RAMBABU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 798,
+  "SRNO": 2388,
+  "EMPNO": "30429802551",
+  "EMPNAME": "\tSANDAKA RAVI TEJA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 799,
+  "SRNO": 2389,
+  "EMPNO": "30429802552",
+  "EMPNAME": "\tTARRA SANTOSH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 800,
+  "SRNO": 2390,
+  "EMPNO": "30429802555",
+  "EMPNAME": "\tKASIMAHANTHI RAVI KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 801,
+  "SRNO": 2391,
+  "EMPNO": "30429802568",
+  "EMPNAME": "\tGANDUPALLI SANJEEV",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 802,
+  "SRNO": 2392,
+  "EMPNO": "30429802569",
+  "EMPNAME": "\tPANGA UGANDHARA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 803,
+  "SRNO": 2393,
+  "EMPNO": "30429802570",
+  "EMPNAME": "\tMAJJI SRINU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 804,
+  "SRNO": 2394,
+  "EMPNO": "30429802571",
+  "EMPNAME": "\tGANDI DARA BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 805,
+  "SRNO": 2395,
+  "EMPNO": "30429802572",
+  "EMPNAME": "\tDARSI VENKATESWARLU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 806,
+  "SRNO": 2396,
+  "EMPNO": "30429802741",
+  "EMPNAME": "\tGOPALASETTI RAKESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 807,
+  "SRNO": 2397,
+  "EMPNO": "30429802774",
+  "EMPNAME": "\tTERUPALLI RAVI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 808,
+  "SRNO": 2398,
+  "EMPNO": "42609D00137",
+  "EMPNAME": "\tS.LOKRAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 809,
+  "SRNO": 2399,
+  "EMPNO": "53199429070",
+  "EMPNAME": "\tMUTTA SIVAKRISHNA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 810,
+  "SRNO": 2400,
+  "EMPNO": "53199431385",
+  "EMPNAME": "\tCHIPPADA SATEESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 811,
+  "SRNO": 2401,
+  "EMPNO": "00329804349",
+  "EMPNAME": "\tSANJOY PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 812,
+  "SRNO": 2402,
+  "EMPNO": "00329803235",
+  "EMPNAME": "\tANKIT KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 813,
+  "SRNO": 2405,
+  "EMPNO": "21529805414",
+  "EMPNAME": "\tSHANKAR KUMAR RAY",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 814,
+  "SRNO": 2408,
+  "EMPNO": "24429804926",
+  "EMPNAME": "\tPURLI PRADEEP",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 815,
+  "SRNO": 2409,
+  "EMPNO": "244IG160473",
+  "EMPNAME": "\tP.SAIRAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 816,
+  "SRNO": 2410,
+  "EMPNO": "30229802759",
+  "EMPNAME": "\tVANAPALLI ASHOK KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 817,
+  "SRNO": 2413,
+  "EMPNO": "24529803902",
+  "EMPNAME": "\tKORLAPU HARI KRISHNA KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 818,
+  "SRNO": 2416,
+  "EMPNO": "30429801055",
+  "EMPNAME": "\tVIVEK KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 819,
+  "SRNO": 2417,
+  "EMPNO": "246IJ150155",
+  "EMPNAME": "\tSUDHIR KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 820,
+  "SRNO": 2418,
+  "EMPNO": "30429801079",
+  "EMPNAME": "\tANUGRAH NARAYAN PANDEY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 821,
+  "SRNO": 2420,
+  "EMPNO": "30429801088",
+  "EMPNAME": "\tMEDA KONDALA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 822,
+  "SRNO": 2422,
+  "EMPNO": "30429801095",
+  "EMPNAME": "\tAMARGEET KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 823,
+  "SRNO": 2424,
+  "EMPNO": "30429801196",
+  "EMPNAME": "\tSANJEEV KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 824,
+  "SRNO": 2425,
+  "EMPNO": "30229802773",
+  "EMPNAME": "\tYANDRAPU GADDIYYA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 825,
+  "SRNO": 2426,
+  "EMPNO": "30429802488",
+  "EMPNAME": "\tJAGGINA BHARATH KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 826,
+  "SRNO": 2427,
+  "EMPNO": "30229802959",
+  "EMPNAME": "\tDOPPA DEEPIKA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 827,
+  "SRNO": 2428,
+  "EMPNO": "30429802525",
+  "EMPNAME": "\tSARVASUDDI DEMUDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 828,
+  "SRNO": 2429,
+  "EMPNO": "30229802961",
+  "EMPNAME": "\tVALLE SUPRIYA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 829,
+  "SRNO": 2430,
+  "EMPNO": "53120164091",
+  "EMPNAME": "\tNANDEESWARA RAO ARISETTY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 830,
+  "SRNO": 2431,
+  "EMPNO": "30229802964",
+  "EMPNAME": "\tSURLA VARALAKSHMI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 831,
+  "SRNO": 2432,
+  "EMPNO": "30229802994",
+  "EMPNAME": "\tMALLA BANGARRAJU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 832,
+  "SRNO": 2433,
+  "EMPNO": "30329800962",
+  "EMPNAME": "\tNEERUKUNDI RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 833,
+  "SRNO": 2434,
+  "EMPNO": "30329800975",
+  "EMPNAME": "\tUPPADA SUDHEER",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 834,
+  "SRNO": 2435,
+  "EMPNO": "30429801059",
+  "EMPNAME": "\tYOGESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 835,
+  "SRNO": 2436,
+  "EMPNO": "30429801106",
+  "EMPNAME": "\tSHESH NATH KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 836,
+  "SRNO": 2437,
+  "EMPNO": "30429801114",
+  "EMPNAME": "\tNIKHIL KUMAR GUPTA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 837,
+  "SRNO": 2438,
+  "EMPNO": "30429801159",
+  "EMPNAME": "\tKAVVADI RITHYANANDA KISHORE",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 838,
+  "SRNO": 2439,
+  "EMPNO": "30429801170",
+  "EMPNAME": "\tSURISETTI BANUMATHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 839,
+  "SRNO": 2440,
+  "EMPNO": "30429801172",
+  "EMPNAME": "\tNARAYANAPURAM SARASWATHI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 840,
+  "SRNO": 2441,
+  "EMPNO": "30429801197",
+  "EMPNAME": "\tMAHESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 841,
+  "SRNO": 2442,
+  "EMPNO": "30429801198",
+  "EMPNAME": "\tVINOD KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 842,
+  "SRNO": 2443,
+  "EMPNO": "30429801204",
+  "EMPNAME": "\tPATTIKAYALA SAI KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 843,
+  "SRNO": 2444,
+  "EMPNO": "30429802508",
+  "EMPNAME": "\tSUNDARAPU N V V N D V P NAVEEN",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 844,
+  "SRNO": 2445,
+  "EMPNO": "30429802527",
+  "EMPNAME": "\tAPPARI RAMESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 845,
+  "SRNO": 2446,
+  "EMPNO": "30429802533",
+  "EMPNAME": "\tTHOTA SNEHA",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 846,
+  "SRNO": 2447,
+  "EMPNO": "30429802554",
+  "EMPNAME": "\tPANKAJ KUMAR SINGHAL",
+  "STATION": "BRCP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 847,
+  "SRNO": 2448,
+  "EMPNO": "30429802853",
+  "EMPNAME": "\tCHINTALA SOUJANYA KUMARI",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 848,
+  "SRNO": 2450,
+  "EMPNO": "30429802472",
+  "EMPNAME": "\tSURENDER DOGIWAL",
+  "STATION": "DGG",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 849,
+  "SRNO": 2451,
+  "EMPNO": "244IG160464",
+  "EMPNAME": "\tK.TIRUPATI",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 850,
+  "SRNO": 2452,
+  "EMPNO": "24229801353",
+  "EMPNAME": "\tAKKANDARA LEELAVATHI",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 851,
+  "SRNO": 2453,
+  "EMPNO": "30229802349",
+  "EMPNAME": "\tEJJIPURAPU CHANDRA SEKHAR",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 852,
+  "SRNO": 2455,
+  "EMPNO": "244IG160464",
+  "EMPNAME": "\tK.TIRUPATI",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104481"
+ },
+ {
+  "id": 853,
+  "SRNO": 2795,
+  "EMPNO": "152APP00308",
+  "EMPNAME": "\tREESARAJU",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 854,
+  "SRNO": 2796,
+  "EMPNO": "15661200839",
+  "EMPNAME": "\tVANGALA SANKAR KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 855,
+  "SRNO": 2797,
+  "EMPNO": "24229801469",
+  "EMPNAME": "\tK. RAJESH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 856,
+  "SRNO": 2798,
+  "EMPNO": "24229801632",
+  "EMPNAME": "\tP. VENKATA RAMANA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 857,
+  "SRNO": 2799,
+  "EMPNO": "244IG132782",
+  "EMPNAME": "\tSIRISETTY ANIL KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 858,
+  "SRNO": 2800,
+  "EMPNO": "245II110494",
+  "EMPNAME": "\tBHANOJIRAOKUPPILI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 859,
+  "SRNO": 2801,
+  "EMPNO": "246IJ140142",
+  "EMPNAME": "\tSANDEEP KUMAR ORAON",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 860,
+  "SRNO": 2802,
+  "EMPNO": "30229800810",
+  "EMPNAME": "\tKIRAN KUMAR ALLU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 861,
+  "SRNO": 2804,
+  "EMPNO": "30329800042",
+  "EMPNAME": "\tUNGATI SRIRAMA MURTY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 862,
+  "SRNO": 2805,
+  "EMPNO": "30329800109",
+  "EMPNAME": "\tHANUMANTHU NAGAVENI",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 863,
+  "SRNO": 2806,
+  "EMPNO": "30329800664",
+  "EMPNAME": "\tPOTHINA TRINADARAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 864,
+  "SRNO": 2807,
+  "EMPNO": "30329800695",
+  "EMPNAME": "\tBALLANKI CHANDRA KANTH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 865,
+  "SRNO": 2808,
+  "EMPNO": "30329800710",
+  "EMPNAME": "\tARASAVELLI NAVEEN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 866,
+  "SRNO": 2809,
+  "EMPNO": "30329800756",
+  "EMPNAME": "\tPOTNURU APPALANAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 867,
+  "SRNO": 2810,
+  "EMPNO": "30429800178",
+  "EMPNAME": "\tDEVULLU KODELA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 868,
+  "SRNO": 2811,
+  "EMPNO": "30429800180",
+  "EMPNAME": "\tCHANDAN KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 869,
+  "SRNO": 2812,
+  "EMPNO": "30429800186",
+  "EMPNAME": "\tKANDI SRINIVASA RAO",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 870,
+  "SRNO": 2813,
+  "EMPNO": "30429800191",
+  "EMPNAME": "\tPYDI VAMSI KRISHNA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 871,
+  "SRNO": 2814,
+  "EMPNO": "30429800192",
+  "EMPNAME": "\tTANGELLA SATYA SURYA VARA PRASAD",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 872,
+  "SRNO": 2815,
+  "EMPNO": "30429800193",
+  "EMPNAME": "\tDUMPALA RAMACHANDRA RAO",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 873,
+  "SRNO": 2816,
+  "EMPNO": "30429800197",
+  "EMPNAME": "\tGURUGUBELLI RAGHUNADH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 874,
+  "SRNO": 2817,
+  "EMPNO": "30429800199",
+  "EMPNAME": "\tASHISH DEBNATH",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 875,
+  "SRNO": 2818,
+  "EMPNO": "30429800200",
+  "EMPNAME": "\tSHASHI RANJAN KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 876,
+  "SRNO": 2819,
+  "EMPNO": "30429800207",
+  "EMPNAME": "\tSAMSOOL ALAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 877,
+  "SRNO": 2820,
+  "EMPNO": "30429800258",
+  "EMPNAME": "\tRAKESH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 878,
+  "SRNO": 2821,
+  "EMPNO": "30429800260",
+  "EMPNAME": "\tSASIBHUSHANA RAO TADDI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 879,
+  "SRNO": 2822,
+  "EMPNO": "30429800262",
+  "EMPNAME": "\tANAND KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 880,
+  "SRNO": 2823,
+  "EMPNO": "30429800264",
+  "EMPNAME": "\tSANTHOSH KONETI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 881,
+  "SRNO": 2824,
+  "EMPNO": "30429800266",
+  "EMPNAME": "\tPENUMALA PRAVEEN",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 882,
+  "SRNO": 2825,
+  "EMPNO": "30429800277",
+  "EMPNAME": "\tAMIT KUMAR SINGH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 883,
+  "SRNO": 2826,
+  "EMPNO": "30429800280",
+  "EMPNAME": "\tTIRUPATHI RAO BOTSA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 884,
+  "SRNO": 2827,
+  "EMPNO": "30429800287",
+  "EMPNAME": "\tANAND VARDHAN",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 885,
+  "SRNO": 2828,
+  "EMPNO": "30429800292",
+  "EMPNAME": "\tRAMESH KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 886,
+  "SRNO": 2829,
+  "EMPNO": "30429800330",
+  "EMPNAME": "\tNADUPURU SATYAM BABU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 887,
+  "SRNO": 2830,
+  "EMPNO": "30429800336",
+  "EMPNAME": "\tVANJARAPU ADINARAYANA",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 888,
+  "SRNO": 2831,
+  "EMPNO": "30429800815",
+  "EMPNAME": "\tPANKAJ KUMAR PRAJAPATI",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 889,
+  "SRNO": 2832,
+  "EMPNO": "30429800820",
+  "EMPNAME": "\tVIRENDRA YADAV",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 890,
+  "SRNO": 2833,
+  "EMPNO": "30429800822",
+  "EMPNAME": "\tAVINASH KUMAR HIMANSHU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 891,
+  "SRNO": 2834,
+  "EMPNO": "30429800823",
+  "EMPNAME": "\tSURESH KUMAR PARIHAST",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 892,
+  "SRNO": 2835,
+  "EMPNO": "30429800824",
+  "EMPNAME": "\tPRIYANSU RAJ",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 893,
+  "SRNO": 2836,
+  "EMPNO": "30429800827",
+  "EMPNAME": "\tSANTOSH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 894,
+  "SRNO": 2837,
+  "EMPNO": "30429800835",
+  "EMPNAME": "\tROHIT KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 895,
+  "SRNO": 2838,
+  "EMPNO": "30429800850",
+  "EMPNAME": "\tMANISH KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 896,
+  "SRNO": 2839,
+  "EMPNO": "30429800857",
+  "EMPNAME": "\tVIKASH SAGAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 897,
+  "SRNO": 2840,
+  "EMPNO": "30429800859",
+  "EMPNAME": "\tTALARI PRAVEEN KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 898,
+  "SRNO": 2841,
+  "EMPNO": "30429800862",
+  "EMPNAME": "\tSURENDRA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 899,
+  "SRNO": 2842,
+  "EMPNO": "30429800863",
+  "EMPNAME": "\tRAHUL PRAKASH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 900,
+  "SRNO": 2843,
+  "EMPNO": "30429800870",
+  "EMPNAME": "\tALLU NAGA RAJU",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 901,
+  "SRNO": 2847,
+  "EMPNO": "53120132254",
+  "EMPNAME": "\tKANDAPALLI DURYADHAN DORA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 902,
+  "SRNO": 2848,
+  "EMPNO": "21329805727",
+  "EMPNAME": "\tVEDA KISHOR TRINADHARAO KUNA",
+  "STATION": "WATMY",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 903,
+  "SRNO": 2849,
+  "EMPNO": "30229800811",
+  "EMPNAME": "\tCHALUMURI SWAMI NAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 904,
+  "SRNO": 2851,
+  "EMPNO": "245II120361",
+  "EMPNAME": "\tSANAPATI APPALA RAM",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 905,
+  "SRNO": 2852,
+  "EMPNO": "30229800811",
+  "EMPNAME": "\tCHALUMURI SWAMI NAIDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 906,
+  "SRNO": 2853,
+  "EMPNO": "30329800692",
+  "EMPNAME": "\tGUNUPURU PRADEEP KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 907,
+  "SRNO": 2857,
+  "EMPNO": "30429800267",
+  "EMPNAME": "\tVELAGA BOGI SARATH",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 908,
+  "SRNO": 2858,
+  "EMPNO": "30429800327",
+  "EMPNAME": "\tGORUGANTULA VENKATESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 909,
+  "SRNO": 2859,
+  "EMPNO": "30429800331",
+  "EMPNAME": "\tPOTHULA VIJAY KUMAR",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 910,
+  "SRNO": 2860,
+  "EMPNO": "30429800845",
+  "EMPNAME": "\tBITTU KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 911,
+  "SRNO": 2869,
+  "EMPNO": "15208MAS201",
+  "EMPNAME": "\tP SANTOSHKUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 912,
+  "SRNO": 2871,
+  "EMPNO": "24229801542",
+  "EMPNAME": "\tGEDELA RAMESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 913,
+  "SRNO": 2872,
+  "EMPNO": "30329800138",
+  "EMPNAME": "\tMARNA SURESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 914,
+  "SRNO": 2873,
+  "EMPNO": "30329800666",
+  "EMPNAME": "\tMENDA APPALANAIDU",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 915,
+  "SRNO": 2874,
+  "EMPNO": "15209MAS252",
+  "EMPNAME": "\tSUNILKUMAR P",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 916,
+  "SRNO": 2875,
+  "EMPNO": "15208MAS110",
+  "EMPNAME": "\tCHIKAKULAPU  GURU VEER SATYA P",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 917,
+  "SRNO": 2878,
+  "EMPNO": "30329800395",
+  "EMPNAME": "\tBOCHA KONDA BABU",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 918,
+  "SRNO": 2880,
+  "EMPNO": "244IG120204",
+  "EMPNAME": "\tSEERAM BHAVANI",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 919,
+  "SRNO": 2881,
+  "EMPNO": "15208MAS201",
+  "EMPNAME": "\tP SANTOSHKUMAR",
+  "STATION": "WAT",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104486"
+ },
+ {
+  "id": 920,
+  "SRNO": 2884,
+  "EMPNO": "53107309946",
+  "EMPNAME": "\tULLURI RAMESH BABU",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104487"
+ },
+ {
+  "id": 921,
+  "SRNO": 2900,
+  "EMPNO": "15204079634",
+  "EMPNAME": "\tDAMARASINGI GANGARAJU",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 922,
+  "SRNO": 2901,
+  "EMPNO": "24229801582",
+  "EMPNAME": "\tRUDRA KARTIK KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 923,
+  "SRNO": 2902,
+  "EMPNO": "24229801631",
+  "EMPNAME": "\tCHERUKURU SATEESH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 924,
+  "SRNO": 2903,
+  "EMPNO": "244IE120158",
+  "EMPNAME": "\tG.SRINIVASA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 925,
+  "SRNO": 2904,
+  "EMPNO": "244IG130957",
+  "EMPNAME": "\tVARRI RAMA SATYAM",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 926,
+  "SRNO": 2905,
+  "EMPNO": "244IG132308",
+  "EMPNAME": "\tRAMAKRISHNA MOIDA",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 927,
+  "SRNO": 2906,
+  "EMPNO": "24529801439",
+  "EMPNAME": "\tBIJESH KUMAR",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 928,
+  "SRNO": 2907,
+  "EMPNO": "30229800840",
+  "EMPNAME": "\tPANDIRI CHENNAKESAVA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 929,
+  "SRNO": 2909,
+  "EMPNO": "30229801859",
+  "EMPNAME": "\tSINGAMSETTI YERRAMA RAYUDU",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 930,
+  "SRNO": 2910,
+  "EMPNO": "30229801904",
+  "EMPNAME": "\tBHEESETTY MOHAN",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 931,
+  "SRNO": 2911,
+  "EMPNO": "30229801957",
+  "EMPNAME": "\tRAJANA PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 932,
+  "SRNO": 2916,
+  "EMPNO": "30429800337",
+  "EMPNAME": "\tPRAVEEN KUMAR GORU",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 933,
+  "SRNO": 2917,
+  "EMPNO": "30429800341",
+  "EMPNAME": "\tALLADA SIVA PRASAD",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 934,
+  "SRNO": 2918,
+  "EMPNO": "30429800346",
+  "EMPNAME": "\tPEDADA PRADEEP KUMAR",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 935,
+  "SRNO": 2919,
+  "EMPNO": "30429800371",
+  "EMPNAME": "\tPEESAPATI SURYA KUMARI",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 936,
+  "SRNO": 2920,
+  "EMPNO": "30429800372",
+  "EMPNAME": "\tSALAPU VENKATA RAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 937,
+  "SRNO": 2921,
+  "EMPNO": "30429800376",
+  "EMPNAME": "\tKANURI NAGAMANI",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 938,
+  "SRNO": 2922,
+  "EMPNO": "30429800380",
+  "EMPNAME": "\tGUNA VENKATA DEEPAK",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 939,
+  "SRNO": 2923,
+  "EMPNO": "30429800382",
+  "EMPNAME": "\tM PRASADA RAO",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 940,
+  "SRNO": 2924,
+  "EMPNO": "30429800383",
+  "EMPNAME": "\tTAMMINANA DURGARAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 941,
+  "SRNO": 2925,
+  "EMPNO": "30429800385",
+  "EMPNAME": "\tROWTU CHANDRA SEKHAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 942,
+  "SRNO": 2926,
+  "EMPNO": "30429800395",
+  "EMPNAME": "\tSHAKE NAGOOR MEERA SAHEB",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 943,
+  "SRNO": 2927,
+  "EMPNO": "30429800396",
+  "EMPNAME": "\tNUTAN KUMARI",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 944,
+  "SRNO": 2928,
+  "EMPNO": "30429800434",
+  "EMPNAME": "\tANIL KUMAR YADAV",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 945,
+  "SRNO": 2929,
+  "EMPNO": "30429800436",
+  "EMPNAME": "\tHARVIR SINGH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 946,
+  "SRNO": 2930,
+  "EMPNO": "30429800439",
+  "EMPNAME": "\tVICKY KUMAR",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 947,
+  "SRNO": 2931,
+  "EMPNO": "30429800452",
+  "EMPNAME": "\tRAJNISH KUMAR SINGH",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 948,
+  "SRNO": 2932,
+  "EMPNO": "30429800456",
+  "EMPNAME": "\tNARAYAN JEE",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 949,
+  "SRNO": 2933,
+  "EMPNO": "30429800463",
+  "EMPNAME": "\tSRIKANT KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 950,
+  "SRNO": 2934,
+  "EMPNO": "30429800976",
+  "EMPNAME": "\tVIKASH SINGH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 951,
+  "SRNO": 2935,
+  "EMPNO": "30429800978",
+  "EMPNAME": "\tADITYA KUMAR SINGH",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 952,
+  "SRNO": 2936,
+  "EMPNO": "30429800979",
+  "EMPNAME": "\tRAMAKRISHNA MARISHA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 953,
+  "SRNO": 2937,
+  "EMPNO": "30429800982",
+  "EMPNAME": "\tMUVVALA SANTOSH KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 954,
+  "SRNO": 2938,
+  "EMPNO": "30429800986",
+  "EMPNAME": "\tGOLLANGI BHASKARA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 955,
+  "SRNO": 2939,
+  "EMPNO": "30429800987",
+  "EMPNAME": "\tARNEPALLI VENKATA RAMANA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 956,
+  "SRNO": 2940,
+  "EMPNO": "30429800988",
+  "EMPNAME": "\tTENTU DURGA PRASADA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 957,
+  "SRNO": 2941,
+  "EMPNO": "30429800990",
+  "EMPNAME": "\tBALAKA VINEEL KUMAR",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 958,
+  "SRNO": 2942,
+  "EMPNO": "30429800994",
+  "EMPNAME": "\tSURJEET KUMAR",
+  "STATION": "BCHL",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 959,
+  "SRNO": 2943,
+  "EMPNO": "30429801006",
+  "EMPNAME": "\tMANIT PRASAD",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 960,
+  "SRNO": 2944,
+  "EMPNO": "30429801009",
+  "EMPNAME": "\tARUN KUMAR CHAUDHARY",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 961,
+  "SRNO": 2945,
+  "EMPNO": "30429801012",
+  "EMPNAME": "\tPRADEEP KUMAR LOHRA",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 962,
+  "SRNO": 2955,
+  "EMPNO": "00329804106",
+  "EMPNAME": "\tSANJEET KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 963,
+  "SRNO": 2957,
+  "EMPNO": "21229807242",
+  "EMPNAME": "\tRAKESH KUMAR",
+  "STATION": "RGDA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 964,
+  "SRNO": 2958,
+  "EMPNO": "24229806441",
+  "EMPNAME": "\tPAMU JAGADESH",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 965,
+  "SRNO": 2959,
+  "EMPNO": "24429803215",
+  "EMPNAME": "\tM MADHURI",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 966,
+  "SRNO": 2963,
+  "EMPNO": "30429800365",
+  "EMPNAME": "\tBHUKYA PARVATHI",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 967,
+  "SRNO": 2964,
+  "EMPNO": "30429800366",
+  "EMPNAME": "\tKASINA RAVIKMAR",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 968,
+  "SRNO": 2965,
+  "EMPNO": "30229801904",
+  "EMPNAME": "\tBHEESETTY MOHAN",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 969,
+  "SRNO": 2966,
+  "EMPNO": "30229802861",
+  "EMPNAME": "\tPADALA SRINIVAS",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 970,
+  "SRNO": 2967,
+  "EMPNO": "30329800510",
+  "EMPNAME": "\tS.RAM KRISHNA RAO",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 971,
+  "SRNO": 2968,
+  "EMPNO": "30429800347",
+  "EMPNAME": "\tMUKHI SANKARA RAO",
+  "STATION": "WATCH",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 972,
+  "SRNO": 2969,
+  "EMPNO": "30429803229",
+  "EMPNAME": "\tDUGGAPU ASHOK CHAKRAVARTHY",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 973,
+  "SRNO": 2973,
+  "EMPNO": "30229801880",
+  "EMPNAME": "\tSANKABATTULA LOKESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 974,
+  "SRNO": 2974,
+  "EMPNO": "30429801011",
+  "EMPNAME": "\tBHAWANI SINGH MEENA",
+  "STATION": "DGG",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 975,
+  "SRNO": 2975,
+  "EMPNO": "30429803226",
+  "EMPNAME": "\tKARRI SRINIVAS RAO",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 976,
+  "SRNO": 2977,
+  "EMPNO": "30229801880",
+  "EMPNAME": "\tSANKABATTULA LOKESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 977,
+  "SRNO": 2979,
+  "EMPNO": "30229801880",
+  "EMPNAME": "\tSANKABATTULA LOKESH",
+  "STATION": "VZM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "3104488"
+ },
+ {
+  "id": 978,
+  "SRNO": 4729,
+  "EMPNO": "30429800386",
+  "EMPNAME": "\tPRAMOD REDDY GADE",
+  "STATION": "NDKD",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 979,
+  "SRNO": 4730,
+  "EMPNO": "30429800449",
+  "EMPNAME": "\tPANKAJ KUMAR SRIVASTVA",
+  "STATION": "VGLJ",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 980,
+  "SRNO": 4732,
+  "EMPNO": "30429802503",
+  "EMPNAME": "\tKURIMINELLI LAKSHMUNAIDU",
+  "STATION": "MIPM",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 981,
+  "SRNO": 4734,
+  "EMPNO": "30429802580",
+  "EMPNAME": "\tLALIT MEENA",
+  "STATION": "KRPU",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 982,
+  "SRNO": 4738,
+  "EMPNO": "24329801723",
+  "EMPNAME": "\tBEERAKA JUTHENDRA SUBRAH MANYAM",
+  "STATION": "SCMN",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 983,
+  "SRNO": 4740,
+  "EMPNO": "30329800038",
+  "EMPNAME": "\tCHIRANJEEVI SUVVARI",
+  "STATION": "VSKP",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 360,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 984,
+  "SRNO": 4751,
+  "EMPNO": "30429802518",
+  "EMPNAME": "\tANJANA V R",
+  "STATION": "ED",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 985,
+  "SRNO": 4752,
+  "EMPNO": "30429803265",
+  "EMPNAME": "\tRAJENDRA KUMAR KOLI",
+  "STATION": "JLR",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 986,
+  "SRNO": 4753,
+  "EMPNO": "30429802819",
+  "EMPNAME": "\tDINESH KUMAR YADAVA",
+  "STATION": "KUR",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 987,
+  "SRNO": 4755,
+  "EMPNO": "30429802517",
+  "EMPNAME": "\tCHEKURI MONIKA CHOWDARY",
+  "STATION": "BZA",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ },
+ {
+  "id": 988,
+  "SRNO": 4756,
+  "EMPNO": "30429802817",
+  "EMPNAME": "\tANAND KUMAR",
+  "STATION": "KUR",
+  "DESIGNATION": "Sr.ALP",
+  "AMT": 300,
+  "BILLUNIT": "#N\/A"
+ }
+]

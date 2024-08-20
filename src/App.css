@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+.FontFamliy {
+  font-family: "KareliaWeb Regular" !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+div,
+p,
+h5,
+button {
+  font-family: "KareliaWeb Regular" !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@import url(https://db.onlinewebfonts.com/c/d29ba033bd591441ba31f6aa7054787f?family=KareliaWeb+Regular);
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.LoginPage {
+  background-image: url('asserts/loginImage.png');
+  background-position: bottom;
+}
+
+@media(min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: space-between;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.form-control {
+  width: 100% !important;
 }
 
-.App-link {
-  color: #61dafb;
+.tableFontSize {
+  font-size: 12px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.selectMobileView {
+  font-size: 10px !important;
+}
+
+@media screen and (max-width: 480px) {
+  .tableFontSize {
+    font-size: 10px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .selectMobileView {
+    width: 100px !important;
+    height: 25px !important;
   }
+
+  .inputWidhtclass {
+    width: 150px !important;
+  }
+}
+
+p {
+  margin: 0px !important;
 }
